@@ -4,8 +4,8 @@
 
 **Definicje**
 
-Python - język programowania.
-PyCon PL - konferencja skierowana do użytkowników Pythona organizowana na terenie Rzeczypospolitej Polskiej.
+Python - język programowania.  
+PyCon PL - konferencja skierowana do użytkowników Pythona organizowana na terenie Rzeczypospolitej Polskiej.  
 Stowarzyszenie - grupa ludzi skupionych wokół wspólnego celu, idei i zainteresowań.
 
 **Spis treści**
