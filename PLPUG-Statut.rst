@@ -58,7 +58,7 @@ Celami Stowarzyszenia są:
 #. Reprezentowanie członków Stowarzyszenia, ich opinii i potrzeb.
 #. Organizowanie bądź współorganizowanie wydarzeń.
 #. Wspieranie lokalnych grup użytkowników Pythona, kół naukowych i innych inicjatyw.
-#. Wspieranie i mentoring około-pythonowych projektów.
+#. Wspieranie i mentoring projektów związanych z językiem programowania Python.
 #. Wspieranie rozwoju rynku programistów języka programowania Python.
 #. Realizacja projektów edukacyjnych w szkolnictwie z wykorzystaniem języka programowania Python.
 
@@ -73,7 +73,7 @@ Sposoby realizacji celów:
     * działalność społeczności języka programowania Python,
     * aktualizacje języka programowania Python, jak również związanego z nim oprogramowania,
     * patronat medialny konferencji, warsztatów, szkoleń i innych inicjatyw,
-    * publikacja okołopythonowych artykułów i poradników użytkownika,
+    * publikacja artykułów związanych z językiem programowania Python i poradników użytkownika,
     * recenzje książek poświęconych tematyce języka programowania Python.
 
 #. Promowanie i zarządzanie polską planetą programistów języka programowania Python.
@@ -572,7 +572,7 @@ Grupa może być zlikwidowana w następujących wypadkach:
 
 Art. 86.
 
-Decyzję o likwidacji Grupy podejmuje w formie uchwały Zarząd Krajowy. Nie podejmuje się decyzji olikwidacji Grupy jeżeli możliwe jest połączenie Grup.
+Decyzję o likwidacji Grupy podejmuje w formie uchwały Zarząd Krajowy. Nie podejmuje się decyzji o likwidacji Grupy jeżeli możliwe jest połączenie Grup.
 
 Art. 87.
 
