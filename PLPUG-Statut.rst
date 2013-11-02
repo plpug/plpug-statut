@@ -2,8 +2,13 @@
 
 **Statut Stowarzyszenia**
 
-**Spis treści**
+**Definicje**
 
+Python - język programowania.
+PyCon PL - konferencja skierowana do użytkowników Pythona organizowana na terenie Rzeczypospolitej Polskiej.
+Stowarzyszenie - grupa ludzi skupionych wokół wspólnego celu, idei i zainteresowań.
+
+**Spis treści**
 
 * Rozdział 1. Postanowienia ogólne
 * Rozdział 2. Cele i formy działania
@@ -16,23 +21,19 @@
 
 Art. 1.
 
-Stowarzyszenie nosi nazwę “Polska Grupa Użytkowników Pythona”, w skrócie “PLPUG”,
-w języku angielskim “Polish Python User Group”, w dalszych postanowieniach zwane Stowarzyszeniem.
+Stowarzyszenie nosi nazwę "Polska Grupa Użytkowników Pythona", w skrócie "PLPUG", w języku angielskim "Polish Python User Group", w dalszych postanowieniach zwane Stowarzyszeniem.
 
 Art. 2.
 
-Stowarzyszenie prowadzi różne formy działalności na rzecz upowszechnienia języka programowania Python oraz budowy i
-integracji jego społeczności.
+Stowarzyszenie prowadzi różne formy działalności na rzecz upowszechnienia Pythona oraz budowy i integracji jego społeczności.
 
 Art. 3.
 
-Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną. Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz. U.
-z 2001 r, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.
+Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną. Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz. U. z 2001 r, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.
 
 Art. 4.
 
-Stowarzyszenie działa na terenie Rzeczypospolitej Polskiej i poza jej granicami, zgodnie
-z przepisami prawa miejscowego.
+Stowarzyszenie działa na terenie Rzeczypospolitej Polskiej i poza jej granicami, zgodnie z przepisami prawa miejscowego.
 
 Art. 5.
 
@@ -40,8 +41,7 @@ Siedzibą Stowarzyszenia jest miasto stołeczne Warszawa.
 
 Art. 6.
 
-Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organizacji
-o podobnych celach.
+Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organizacji o podobnych celach.
 
 Art. 7.
 
@@ -53,14 +53,14 @@ Art. 8.
 
 Celami Stowarzyszenia są:
 
-#. Budowa i integracja polskiej społeczności języka programowania Python.
-#. Popularyzacja języka programowania Python, jak również związanego z nim oprogramowania.
+#. Budowa i integracja polskiej społeczności Pythona.
+#. Popularyzacja Pythona, jak również związanego z nim oprogramowania.
 #. Reprezentowanie członków Stowarzyszenia, ich opinii i potrzeb.
-#. Organizowanie bądź współorganizowanie wydarzeń.
-#. Wspieranie lokalnych grup użytkowników Pythona, kół naukowych i innych inicjatyw.
-#. Wspieranie i mentoring projektów związanych z językiem programowania Python.
-#. Wspieranie rozwoju rynku programistów języka programowania Python.
-#. Realizacja projektów edukacyjnych w szkolnictwie z wykorzystaniem języka programowania Python.
+#. Organizowanie bądź współorganizowanie wydarzeń realizujących przynajmniej jeden z celów Stowarzyszenia.
+#. Wspieranie lokalnych grup użytkowników Pythona oraz innych społeczności wykorzystujących ten język programowania.
+#. Wspieranie projektów związanych z Pythonem.
+#. Wspieranie rozwoju rynku pracy dla programistów Pythona.
+#. Realizacja projektów edukacyjnych w szkolnictwie z wykorzystaniem Pythona.
 
 Art. 9.
 
@@ -70,17 +70,20 @@ Sposoby realizacji celów:
 #. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia.
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
-    * działalność społeczności języka programowania Python,
-    * aktualizacje języka programowania Python, jak również związanego z nim oprogramowania,
-    * patronat medialny konferencji, warsztatów, szkoleń i innych inicjatyw,
-    * publikacja artykułów związanych z językiem programowania Python i poradników użytkownika,
-    * recenzje książek poświęconych tematyce języka programowania Python.
+    * działalności społeczności użytkowników Pythona,
+    * aktualizacji Pythona, jak również związanego z nim oprogramowania,
+    * patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw,
+    * publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
 
-#. Promowanie i zarządzanie polską planetą programistów języka programowania Python.
-#. Promowanie i zarządzanie serwisem ogłoszeniowym z ofertami pracy dla programistów języka programowania Python.
-#. Pomoc w zakresie edukacyjnym i programistycznym na forum Stowarzyszenia i kanałach IRC #python.pl oraz #django-pl, mieszczących się w sieci FreeNode.
+#. Zarządzanie i promowanie:
+
+    * "Forum polskich programistów Python",
+    * kanałów IRC "#python.pl" i "#django.pl",
+    * "Planety polskich programistów Python".
+    * serwisu ogłoszeniowego z ofertami pracy dla programistów Python.
+
 #. Finansowe i medialne wspieranie lokalnych grup użytkowników Pythona.
-#. Organizowanie konkursów, imprez i innych akcji służących realizacji celów statutowych Stowarzyszenia.
+#. Organizowanie konferencji (w tym również "PyCon PL"), konkursów, imprez i innych akcji służących realizacji celów statutowych Stowarzyszenia.
 #. Współpraca z fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia.
 
 **Rozdział 3. Członkowie, ich prawa i obowiązki**
@@ -103,7 +106,7 @@ Członkiem zwyczajnym Stowarzyszenia może zostać:
 
 #.  osoba fizyczna, posiadająca pełną zdolność do czynności prawnych,
 #.  osoba, która przekazała Zarządowi wypełnioną deklarację członkowską i uzyskała jego zgodę na przyjęcie w poczet członków,
-#.  osoba, która opłaciła pierwszą składkę członkowską.
+#.  osoba, która opłaciła składkę członkowską.
 
 Art. 13.
 
@@ -115,18 +118,18 @@ Osoba prawna działa w Stowarzyszeniu przez swojego przedstawiciela.
 
 Art. 14.
 
-Członkiem honorowym Stowarzyszenia może zostać:
+Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, która:
 
-#.  osoba fizyczna, która wniosła wybitny wkład w rozwój języka programowania Python bądź jego społeczności,
+#.  wniosła wybitny wkład w rozwój Pythona bądź jego społeczności,
 #.  w szczególny sposób zasłużyła się Stowarzyszeniu.
 
 Art. 15.
 
-Przyjęcie na członka zwyczajnego lub wspierającego Stowarzyszenia następuje bezpośrednio w drodze uchwały Zarządu Krajowego lub Zarządu właściwego Oddziału Terenowego zatwierdzonej przez Zarząd Krajowy.
+Przyjęcie na członka zwyczajnego lub wspierającego Stowarzyszenie następuje bezpośrednio w drodze uchwały Zarządu Krajowego lub Zarządu właściwego Oddziału Terenowego zatwierdzonej przez Zarząd Krajowy.
 
 Art. 16.
 
-Godność członka honorowego nadaje Walne Zebranie Członków. Otrzymanie godności członka honorowego nie powoduje utraty członkostwa zwyczajnego.
+Status członka honorowego nadaje Walne Zebranie Członków. Otrzymanie statusu członka honorowego nie powoduje utraty członkostwa zwyczajnego.
 
 Art. 17.
 
@@ -158,7 +161,7 @@ Członkostwo wspierające Stowarzyszenia wygasa na skutek:
 
 Art. 20.
 
-Godności członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu Krajowego w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień Statutu.
+Statusu członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu Krajowego w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień statutu.
 
 Art. 21.
 
@@ -187,7 +190,7 @@ Art. 25.
 
 Członek zwyczajny Stowarzyszenia ma prawo:
 
-#.  uczestnictwo w Walnych Zebraniach Członków,
+#.  uczestnictwa w Walnych Zebraniach Członków,
 #.  wybierania i bycia wybieranym do władz Stowarzyszenia,
 #.  uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
 #.  korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
@@ -197,7 +200,7 @@ Art. 26.
 
 Członek wspierający Stowarzyszenie ma prawo:
 
-#.  uczestnictwo z głosem doradczym w Walnych Zebraniach Członków,
+#.  uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
 #.  uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
 #.  korzystania z pomocy Stowarzyszenia w działaniach na rzecz celów statutowych Stowarzyszenia,
 #.  wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
@@ -236,7 +239,7 @@ W przypadku odwołania Prezesa przed upływem kadencji, Walne Zebranie Członkó
 
 Art. 33.
 
-O ile dalsze postanowienia Statutu nie stanowią inaczej, uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum. W przypadku równej liczby głosów decyduje głos przewodniczącego obrad.
+O ile dalsze postanowienia statutu nie stanowią inaczej, uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum. W przypadku równej liczby głosów decyduje głos przewodniczącego obrad.
 
 Art. 34.
 
@@ -257,41 +260,39 @@ Walne Zebranie Członków może być zwyczajne lub nadzwyczajne.
 
 Art. 37.
 
-Walne Zebranie Członków zwyczajne jest zwoływane raz na dwa lata przez Zarząd Krajowy
-w siedzibie Stowarzyszenia lub innym dogodnym miejscu, jako zebranie sprawozdawczo-wyborcze.
+Zwyczajne Walne Zebranie Członków jest zwoływane raz na dwa lata przez Zarząd Krajowy w siedzibie Stowarzyszenia lub innym dogodnym miejscu, jako zebranie sprawozdawczo-wyborcze.
 
 Termin obrad Zarząd Krajowy podaje do wiadomości wszystkich członków co najmniej 30 dni kalendarzowych przed pierwszym terminem zebrania.
 
 Art. 38.
 
-Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie Stowarzyszenia lub innym dogodnym miejscu. Jest zwoływane przez Zarząd Krajowy z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby Członków Zwyczajnych Stowarzyszenia.
+Nadzwyczajne Walne Zebranie Członków może się odbyć w każdym czasie w siedzibie Stowarzyszenia lub innym dogodnym miejscu. Jest zwoływane przez Zarząd Krajowy z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby Członków Zwyczajnych Stowarzyszenia.
 
-Pierwszy termin Walnego Zgromadzenia Członków nadzwyczajnego powinien być określony nie później niż 60 dni kalendarzowych od daty wpływu wniosku do Zarządu Krajowego.
+Pierwszy termin Nadzwyczajnego Walnego Zgromadzenia Członków powinien być określony nie później niż 60 dni kalendarzowych od daty wpływu wniosku do Zarządu Krajowego.
 
-Wniosek powinien zawierać propozycje terminów oraz porządku obraz.
+Wniosek powinien zawierać propozycje terminów oraz porządku obrad.
 
 Art. 39.
 
-Walne Zgromadzenie Członków nadzwyczajne obraduje nad sprawami, dla których zostało zwołane, według uchwalonego przez siebie regulaminu obrad.
+Nadzwyczajne Walne Zgromadzenie Członków obraduje nad sprawami, dla których zostało zwołane, według uchwalonego przez siebie regulaminu obrad.
 
 Art. 40.
 
 Do kompetencji Walnego Zebrania Członków należy:
 
 #.  określenie głównych kierunków działania i rozwoju Stowarzyszenia na okres kadencji,
-#.  podejmowanie uchwał o zmianie Statutu lub rozwiązaniu Stowarzyszenia i przeznaczeniu jej majątku,
+#.  podejmowanie uchwał o zmianie statutu lub rozwiązaniu Stowarzyszenia i przeznaczeniu jej majątku,
 #.  wybór i odwoływanie wszystkich władz oraz członków Stowarzyszenia,
 #.  rozpatrywanie sprawozdań wszystkich władz Stowarzyszenia,
 #.  udzielanie Zarządowi Krajowemu absolutorium na wniosek Komisji Rewizyjnej,
-#.  ustalanie wysokości składek członkowskich,
 #.  uchwalenie rocznego budżetu Stowarzyszenia,
 #.  nadawanie i pozbawienie godności członka honorowego Stowarzyszenia,
 #.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia lub jego władze,
-#.  podejmowanie uchwał w sprawach nie zastrzeżonych do kompetencji innych władz Stowarzyszenia.
+#.  podejmowanie uchwał w sprawach niezastrzeżonych do kompetencji innych władz Stowarzyszenia.
 
 Art. 41.
 
-Walne Zebranie Członków podejmuje większością 2/3 głosów w sprawie zmian Statutu, odwołania przed upływem kadencji Prezesa lub członków władz Stowarzyszenia oraz pozbawienia godności członka honorowego.
+Walne Zebranie Członków podejmuje większością 2/3 głosów w sprawie zmian statutu, odwołania przed upływem kadencji Prezesa lub członków władz Stowarzyszenia oraz pozbawienia statusu członka honorowego.
 
 Art. 42.
 
@@ -310,13 +311,11 @@ W skład Zarządu Krajowego wchodzi:
 
 Art. 44.
 
-Zarząd Krajowy jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie
-z uchwałami Walnego Zgromadzenia Członków, a także reprezentuje Stowarzyszenie wobec organów administracyjnych i sądów.
+Zarząd Krajowy jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zgromadzenia Członków, a także reprezentuje Stowarzyszenie wobec organów administracyjnych i sądów.
 
 Art. 45.
 
-Posiedzenia Zarządu Krajowego odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na
-6 miesięcy. Posiedzenie Zarządu Krajowego zwołuje Prezes lub dwóch członków Zarządu Krajowego działających łącznie.
+Posiedzenia Zarządu Krajowego odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenie Zarządu Krajowego zwołuje Prezes lub dwóch członków Zarządu Krajowego działających łącznie.
 
 Art. 46.
 
@@ -335,7 +334,7 @@ Do kompetencji Zarządu Krajowego należy:
 #.  powoływanie i rozwiązywanie komisji i zespołów w celu wykonania zadań statutowych, sprawowanie nad nimi nadzoru i uchwalanie regulaminów ich działalności,
 #.  podejmowanie uchwał o przyjęciu bądź skreśleniu Członków Zwyczajnych i Członków Wspierających Stowarzyszenia z listy członków,
 #.  reprezentowanie Stowarzyszenia wobec organów administracji i sądów,
-#.  podejmowanie innych decyzji przewidzianych w Statucie.
+#.  podejmowanie innych decyzji przewidzianych w statucie.
 
 *Komisja Rewizyjna*
 
@@ -377,7 +376,7 @@ Członkowie Komisji Rewizyjnej mogą brać udział w posiedzeniach Zarządu Kraj
 
 *Sąd Koleżeński*
 
-Art. 53.
+Art. 54.
 
 Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i składa się z 3 do 7 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
 
@@ -385,107 +384,106 @@ Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i składa si
 #.  Wiceprzewodniczącego,
 #.  Sekretarza.
 
-Hierarcha ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
-
-Art. 54.
-
-Członkowie Sądu Koleżeńskiego nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
+Hierarchia ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
 
 Art. 55.
 
-Do zakresu działań Sądu Koleżeńskiego należy:
-
-#.  rozpatrywanie i rozstrzyganie spraw członków władz w zakresie niedopełnienia przez nich obowiązków lub przekroczenia uprawnień wynikających ze Statutu i uchwał władz Stowarzyszenia,
-#.  rozpatrywanie i rozstrzyganie sporów pomiędzy członkami Stowarzyszenia oraz między członkami a władzami Stowarzyszenia, powstałych na tle ich praw i obowiązków wynikających z ich przynależności i działalności w Stowarzyszeniu,
-#.  rozpatrywanie spraw związanych z nieprzestrzeganiem Statutu i uchwał władz Stowarzyszenia lub działaniem na szkodę Stowarzyszenia,
-#.  składanie sprawozdań ze swojej działalności Walnemu Zebraniu Członków.
+Członkowie Sądu Koleżeńskiego nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
 
 Art. 56.
 
-Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub wniosek zainteresowanych stron trzecich. Tryb i formy działania Sądu Koleżeńskiego określa regulamin przezeń uchwalony.
+Do zakresu działań Sądu Koleżeńskiego należy:
+
+#.  rozpatrywanie i rozstrzyganie spraw członków władz w zakresie niedopełnienia przez nich obowiązków lub przekroczenia uprawnień wynikających ze statutu i uchwał władz Stowarzyszenia,
+#.  rozpatrywanie i rozstrzyganie sporów pomiędzy członkami Stowarzyszenia oraz między członkami a władzami Stowarzyszenia, powstałych na tle ich praw i obowiązków wynikających z ich przynależności i działalności w Stowarzyszeniu,
+#.  rozpatrywanie spraw związanych z nieprzestrzeganiem statutu i uchwał władz Stowarzyszenia lub działaniem na szkodę Stowarzyszenia,
+#.  składanie sprawozdań ze swojej działalności Walnemu Zebraniu Członków.
 
 Art. 57.
 
-Na wniosek Rzecznika Dyscyplinarnego Sąd Koleżeński może orzec wobec członka władz Stowarzyszenia o czasowym zawieszeniu go w pełnieniu funkcji do czasu ostatecznego rozstrzygnięcia sprawy, w której Rzecznik Dyscyplinarny prowadzi postępowanie.
+Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub wniosek zainteresowanych stron trzecich. Tryb i formy działania Sądu Koleżeńskiego określa regulamin przezeń uchwalony.
 
 Art. 58.
 
-Sąd Koleżeński, stwierdzając w orzeczeniu naruszenie Statutu lub uchwał władz Stowarzyszenia, może orzec karę:
+Na wniosek Rzecznika Dyscyplinarnego Sąd Koleżeński może orzec wobec członka władz Stowarzyszenia o czasowym zawieszeniu go w pełnieniu funkcji do czasu ostatecznego rozstrzygnięcia sprawy, w której Rzecznik Dyscyplinarny prowadzi postępowanie.
+
+Art. 59.
+
+Sąd Koleżeński, stwierdzając w orzeczeniu naruszenie statutu lub uchwał władz Stowarzyszenia, może orzec karę:
 
 #.  upomnienia,
 #.  nagany,
 #.  zawieszenia w prawach członkowskich na okres od jednego do dwóch lat,
 #.  trwałego wykluczenia ze Stowarzyszenia.
 
-Art. 59.
+Art. 60.
 
 Od orzeczenia Sądu Koleżeńskiego służy stronom prawo odwołania do Walnego Zebrania Członków. Odwołanie wnosi się w terminie 30 dni kalendarzowych od otrzymania orzeczenia Sądu Koleżeńskiego za pośrednictwem Zarządu Krajowego. Odwołanie rozpatrywane jest na najbliższym zebraniu.
 
-Art. 60.
+Art. 61.
 
 Przewodniczący Sądu Koleżeńskiego ma prawo uczestniczenia w posiedzeniach Zarządu Krajowego i Komisji Rewizyjnej z głosem doradczym.
 
 *Rzecznik Dyscyplinarny*
 
-Art. 61.
+Art. 62.
 
 Rzecznik Dyscyplinarny wybierany jest przez Walne Zebranie Członków.
 
-
-Art. 62.
+Art. 63.
 
 Rzecznik Dyscyplinarny nie może pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
 
-Art. 63.
-
-Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania dyscyplinarnego w przypadku uzyskania informacji o naruszeniu przez członka Stowarzyszenia postanowień Statutu lub uchwał władz Stowarzyszenia oraz kierowanie spraw do Sądu Koleżeńskiego.
-
 Art. 64.
+
+Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania dyscyplinarnego w przypadku uzyskania informacji o naruszeniu przez członka Stowarzyszenia postanowień statutu lub uchwał władz Stowarzyszenia oraz kierowanie spraw do Sądu Koleżeńskiego.
+
+Art. 65.
 
 Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
 
 **Rozdział 5. Oddziały terenowe i koła**
 
-Art. 65.
+Art. 66.
 
-Jednostkami organizacyjnymi Stowarzyszenia są Lokalne Grupy Użytkowników Pythona, zwane dalej Grupami, lub Koła.
+Jednostkami organizacyjnymi Stowarzyszenia są Lokalne Grupy Użytkowników Pythona, zwane dalej Grupami, lub Kołami.
 
 *Grupy*
 
-Art. 66.
-
-Grupy powołuje co najmniej 15 członków zwyczajnych Stowarzyszenia, zwanych dalej Członkami Założycielskimi Grupy, wskazując proponowany zakres terytorialny jego działania.
-
 Art. 67.
 
-Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy powstania Grupy na pisemny wniosek jej założycieli. Zarząd Krajowy wpisuje Grupę do prowadzonej ewidencji. Zarząd Krajowy rozpocznie rozpoznawanie wniosku na najbliższym swoim posiedzeniu.
+Grupy powołuje co najmniej 15 członków zwyczajnych Stowarzyszenia, zwanych dalej Członkami Założycielskimi Grupy, wskazując proponowany zakres terytorialny ich działania.
 
 Art. 68.
 
-Grupy działają na obszarze nie większym niż jedno województwo.
+Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy powstania Grupy na pisemny wniosek jej założycieli. Zarząd Krajowy wpisuje Grupę do prowadzonej ewidencji. Zarząd Krajowy rozpocznie rozpoznawanie wniosku na najbliższym swoim posiedzeniu.
 
 Art. 69.
 
-Grupy podlegają władzom krajowym Stowarzyszenia i prowadzą działalność statutową. Szczegółowe zasady działania takiej jednostki reguluje regulamin prac Zarządu Grupy, zatwierdzony przez Zarząd Krajowy.
+Grupy działają na obszarze nie większym niż jedno województwo.
 
 Art. 70.
+
+Grupy podlegają władzom krajowym Stowarzyszenia i prowadzą działalność statutową. Szczegółowe zasady działania takiej jednostki reguluje regulamin prac Zarządu Grupy, zatwierdzony przez Zarząd Krajowy.
+
+Art. 71.
 
 Władzami Grupy są:
 
 #.  Walne Zebrania Członków Grupy,
 #.  Zarząd Grupy.
 
-Art. 71.
+Art. 72.
 
-W sprawach nieuregulowanych odrębnie do władz Grupy stosuje się odpowiednio postanowienia Statutu dotyczące władz krajowych.
+W sprawach nieuregulowanych odrębnie do władz Grupy stosuje się odpowiednio postanowienia statutu dotyczące władz krajowych.
 
 *Walne Zebranie Członków Grupy*
 
-Art. 72.
-
-Walne Zebranie Członków Grupy jest najwyższą władzą Grupy i jest zwoływane raz na rok rzez Zarząd Grupy.
-
 Art. 73.
+
+Walne Zebranie Członków Grupy jest najwyższą władzą Grupy i jest zwoływane nie rzadziej niż raz na rok przez Zarząd Grupy.
+
+Art. 74.
 
 Do kompetencji Walnego Zebrania Członków Grupy należy:
 
@@ -494,15 +492,14 @@ Do kompetencji Walnego Zebrania Członków Grupy należy:
 #.  rozpatrywanie sprawozdań wszystkich władz Grupy,
 #.  udzielanie Zarządowi Grupy absolutorium,
 #.  uchwalenie rocznego budżetu Grupy,
-#.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Grupy lub jego władze,
+#.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Grupy lub jej władze,
 #.  podejmowanie uchwał w sprawach nie zastrzeżonych do kompetencji innych władz Grupy.
 
-Art. 74.
+Art. 75.
 
 Zarząd Grupy powiadamia Członków Grupy i Zarząd Krajowy o terminie i porządku obrad Walnego Zebrania Członków Grupy co najmniej na 30 dni kalendarzowych przed jego odbyciem.
 
-
-Art. 75.
+Art. 76.
 
 W Walnym Zebraniu Członków Grupy uczestniczą:
 
@@ -510,17 +507,17 @@ W Walnym Zebraniu Członków Grupy uczestniczą:
 #.  Członkowie Wspierający i Członkowie Honorowi Stowarzyszenia z terenu działania Grupy z głosem doradczym,
 #.  delegaci władz krajowych z głosem doradczym.
 
-Art. 76.
+Art. 77.
 
 Szczegółowe zasady przeprowadzenia wyborów władz Grupy określa regulamin uchwalony przez Zarząd Krajowy Stowarzyszenia.
 
-Art. 77.
+Art. 78.
 
 Na wniosek Zarządu Krajowego lub co najmniej 1/3 Członków Zwyczajnych Stowarzyszenia zrzeszonych w Grupie, Zarząd Grupy zwołuje Nadzwyczajne Walne Zebranie Członków Grupy w ciągu 60 dni kalendarzowych od daty zgłoszenia wniosku.
 
 *Zarząd Grupy*
 
-Art. 78.
+Art. 79.
 
 W skład Zarządu Grupy wchodzi:
 
@@ -531,38 +528,38 @@ W skład Zarządu Grupy wchodzi:
 
 Dla swej skuteczności wybór Zarządu Grupy wymaga zatwierdzenia przez Zarząd Krajowy.
 
-Art. 79.
+Art. 80.
 
 Do kompetencji Zarządu Grupy należy:
 
-#.  wykonanie wiążących Grupę uchwał władz krajowych Stowarzyszenia,
+#.  wykonywanie wiążących Grupę uchwał władz krajowych Stowarzyszenia,
 #.  realizacja zadań określony przez Walne Zebranie Członków Grupy,
 #.  kierowanie bieżącą działalnością Grupy,
 #.  zwoływanie i organizowanie zebrań Członków Grupy,
 #.  opracowanie i realizowanie rocznych planów pracy i planów finansowych Grupy,
 #.  gospodarowanie majątkiem Grupy, pozostawionym do dyspozycji Grupy przez Zarząd Krajowy.
 
-Art. 80.
+Art. 81.
 
 Zarząd Grupy podejmuje także uchwały dotyczące przyjęcia w poczet Członków Zwyczajnych oraz w sprawach ustania członkostwa. Uchwały te wymagają zatwierdzenia przez Zarząd Krajowy.
 
-Art. 81.
+Art. 82.
 
 Zarząd Grupy składa sprawozdania z działalności Grupy Zarządowi Krajowemu Stowarzyszenia w terminach ustalonych regulaminem przez Zarząd Krajowy.
 
-Art. 82.
+Art. 83.
 
 Zarząd Grupy jest uprawniony do składania oświadczeń woli dotyczących praw i obowiązków majątkowych, na podstawie stałego pełnomocnictwa udzielanego jego członkom przez Zarząd Krajowy. Do składania oświadczeń woli w sprawach przekraczających zakres zwykłego zarządu wymagane jest każdorazowo odrębne pełnomocnictwo Stowarzyszenia udzielane przez Zarząd Krajowy.
 
-Art. 83.
+Art. 84.
 
 Sprawy wykraczające poza zakres działania Zarządu Grupy oraz sprawy o szczególnym znaczeniu dla Stowarzyszenia Zarząd Grupy wnosi pod obrady Zarządu Krajowego przed podjęciem działania w takich sprawach.
 
-Art. 84.
+Art. 85.
 
 Posiedzenia Zarządu Grupy odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 4 miesiące.
 
-Art. 85.
+Art. 86.
 
 Grupa może być zlikwidowana w następujących wypadkach:
 
@@ -570,74 +567,73 @@ Grupa może być zlikwidowana w następujących wypadkach:
 #.  wniosku Walnego Zebrania Członków Grupy w formie uchwały powziętej większością 2/3 głosów przy obecności co najmniej połowy Członków Zwyczajnych danej Grupy,
 #.  braku uzasadnienia organizacyjnego lub statutowego do dalszego istnienia Grupy.
 
-Art. 86.
+Art. 87.
 
 Decyzję o likwidacji Grupy podejmuje w formie uchwały Zarząd Krajowy. Nie podejmuje się decyzji o likwidacji Grupy jeżeli możliwe jest połączenie Grup.
 
-Art. 87.
+Art. 88.
 
 Na podstawie uchwał Walnych Zebrań zainteresowanych Grup Zarząd Krajowy może podjąć uchwałę o podziale lub o połączeniu Grup.
 
 *Koła*
 
-Art. 88.
+Art. 89.
 
 Koła powołuje co najmniej 3 Członków Zwyczajnych Stowarzyszenia, zwanych dalej Członkami Założycielskimi Koła, którzy określają, czy Koło ma mieć charakter terytorialny czy przedmiotowy.
 
-Art. 89.
+Art. 90.
 
 Koła terytorialne nie mogą przekraczać granic istniejącej Grupy.
 
-Art. 90.
+Art. 91.
 
 Koła przedmiotowe są Kołami o zasięgu krajowym.
 
-Art. 91.
+Art. 92.
 
 Koło powstaje z chwilą zatwierdzenia przez Zarząd Krajowy, lub odpowiedni terytorialnie Zarząd Grupy, na pisemny wniosek jego założycieli. Zarząd Krajowy lub odpowiednio dla Kół terytorialnych Zarząd Grupy wpisuje Koło do prowadzonej ewidencji.
 
-Art. 92.
+Art. 93.
 
 Powołanie Koła przez odpowiedni terytorialny Zarząd Grupy wymaga akceptacji przez Zarząd Krajowy.
 
-Art. 93.
+Art. 94.
 
 Zarząd Krajowy lub odpowiednio terytorialnie Zarząd Grupy, powołuje na podstawie rekomendacji członków Koła Prezesa Koła i określa cele i regulamin działania Koła.
 
-Art. 94.
+Art. 95.
 
 Członkami Koła mogą zostać członkowie Stowarzyszenia.
 
-Art. 95.
-
-W przypadku Kół przedmiotowych członkami Koła mogą zostać osoby nie będące członkami Stowarzyszenia, pod warunkiem, że zobowiązują się do przestrzegania Regulaminu Koła, Statutu i postanowień Władz Stowarzyszenia.
-
 Art. 96.
+
+W przypadku Kół przedmiotowych członkami Koła mogą zostać osoby nie będące członkami Stowarzyszenia, pod warunkiem, że zobowiązują się do przestrzegania Regulaminu Koła, statutu i postanowień Władz Stowarzyszenia.
+
+Art. 97.
 
 Koło Stowarzyszenia może zostać zlikwidowane na podstawie:
 
 #.  decyzji Zarządu Krajowego,
 #.  w przypadku Koła o zasięgu terytorialnym odpowiedniego terytorialnie Zarządu Grupy,
-#.  nieprzestrzegania regulaminu, Statutu, postanowień Władz Krajowych lub terytorialnych Stowarzyszenia,
+#.  nieprzestrzegania regulaminu, statutu, postanowień Władz Krajowych lub terytorialnych Stowarzyszenia,
 #.  braku uzasadnienia organizacyjnego lub statutowego do dalszego istnienia Koła.
 
-Art. 97.
+Art. 98.
 
 Do likwidacji, łączenia i podziału Kół stosuje się odpowiednio przepisy o Grupach.
 
 **Rozdział 6. Majątek i fundusze**
 
-Art. 98.
+Art. 99.
 
 Majątek Stowarzyszenia stanowią nieruchomości, ruchomości i fundusze.
 
-Art. 99.
+Art. 100.
 
 Majątek Stowarzyszenia powstaje z:
 
 #.  składek członkowskich
-#.  dochodów z nieruchomości i ruchomości stanowiących własność lub będących
-    w użytkowaniu Stowarzyszenia,
+#.  dochodów z nieruchomości i ruchomości stanowiących własność lub będących w użytkowaniu Stowarzyszenia,
 #.  dotacji, kontraktów państwowych i subwencji,
 #.  darowizn, zapisów i spadków,
 #.  wpływów z działalności własnej,
@@ -646,34 +642,31 @@ Majątek Stowarzyszenia powstaje z:
 #.  wpływów z loterii, aukcji i sponsoringu,
 #.  dochody z działalności gospodarczej prowadzonej przez Stowarzyszenie zgodnie z obowiązującymi przepisami prawa.
 
-Art. 100.
+Art. 101.
 
 Dochody z działalności gospodarczej służą realizacji celów Stowarzyszenia i nie mogą być przeznaczone do podziału między jej członków.
 
-Art. 101.
-
-Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na te konto przelane.
-
 Art. 102.
 
-Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd Krajowy Stowarzyszenia.
+Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na to konto przelane.
 
 Art. 103.
 
-Zarząd Krajowy może tworzyć fundusze celowe, wyodrębniając w tym celu posiadane w swojej dyspozycji środki finansowe.
+Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd Krajowy Stowarzyszenia.
 
 Art. 104.
 
-Zarząd Krajowy zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
+Zarząd Krajowy może tworzyć fundusze celowe, wyodrębniając w tym celu posiadane w swojej dyspozycji środki finansowe.
 
 Art. 105.
 
-W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby:
-
-#.  Prezes Stowarzyszenia i Wiceprezes Stowarzyszenia,
-#.  Skarbnik i upoważniony Członek Zarządu Krajowego.
+Zarząd Krajowy zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
 
 Art. 106.
+
+W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby Prezes Stowarzyszenia i Wiceprezes Stowarzyszenia albo Skarbnik i upoważniony Członek Zarządu Krajowego.
+
+Art. 107.
 
 Zabronione jest:
 
@@ -681,4 +674,3 @@ Zabronione jest:
 #.  przekazywanie majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności, jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
 #.  wykorzystanie majątku Stowarzyszenia na rzecz członków, członków organów lub pracowników oraz ich osób bliskich na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z celu statutowego.
 #.  dokonywanie zakupu towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, członkowie jego organów lub pracownicy oraz ich osób bliskich na zasadach innych niż w stosunku do osób trzecich lub po cenach wyższych niż rynkowe.
-
