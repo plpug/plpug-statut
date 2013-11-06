@@ -6,7 +6,7 @@
 
 * Rozdział 1. Postanowienia ogólne
 * Rozdział 2. Cele i formy działania
-* Rozdział 3. Członkowie ich prawa i obowiązki
+* Rozdział 3. Członkowie, ich prawa i obowiązki
 * Rozdział 4. Władze Stowarzyszenia
 * Rozdział 5. Grupy i koła
 * Rozdział 6. Majątek i fundusze
@@ -19,7 +19,7 @@ Stowarzyszenie nosi nazwę "Polska Grupa Użytkowników Pythona", w skrócie "PL
 
 Art. 2.
 
-Stowarzyszenie prowadzi różne formy działalności na rzecz upowszechnienia Pythona (języka programowania, rozwijanego przez Fundację Python Software Foundation) oraz budowy i integracji jego społeczności.
+Stowarzyszenie prowadzi różne formy działalności na rzecz upowszechniania Pythona (języka programowania, rozwijanego przez Fundację Python Software Foundation) oraz budowy i integracji jego społeczności.
 
 Art. 3.
 
@@ -63,7 +63,7 @@ Sposoby realizacji celów:
 #. Organizowanie konferencji PyCon PL, promującej Pythona na terenie Rzeczypospolitej Polskiej,
 #. Organizowanie innych konferencji, warsztatów, konkursów oraz akcji służących realizacji celów statutowych Stowarzyszenia.
 #. Finansowe i medialne wspieranie lokalnych grup użytkowników Pythona.
-#. Współpraca z fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia.
+#. Współpraca z Fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia.
 #. Tworzenie wolnego oprogramowania wspierającego działanie Stowarzyszenia.
 #. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia.
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
@@ -75,10 +75,10 @@ Sposoby realizacji celów:
 
 #. Zarządzanie i promowanie:
 
-    * "Forum polskich programistów Python",
+    * "Forum polskich programistów Pythona",
     * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode,
-    * "Planety polskich programistów Python".
-    * serwisu ogłoszeniowego z ofertami pracy dla programistów Python.
+    * "Planety polskich programistów Pythona".
+    * serwisu ogłoszeniowego z ofertami pracy dla programistów Pythona.
 
 **Rozdział 3. Członkowie, ich prawa i obowiązki**
 
@@ -502,8 +502,8 @@ Art. 76.
 
 W Walnym Zebraniu Członków Grupy uczestniczą:
 
-#.  członkowie Zwyczajni Stowarzyszenia zrzeszeni w danej Grupie korzystając z czynnego i biernego prawa wyborczego w zakresie przyznanym im przez przepisy prawa,
-#.  członkowie Wspierający i członkowie Honorowi Stowarzyszenia z terenu działania Grupy z głosem doradczym,
+#.  członkowie zwyczajni Stowarzyszenia zrzeszeni w danej Grupie korzystając z czynnego i biernego prawa wyborczego w zakresie przyznanym im przez przepisy prawa,
+#.  członkowie wspierający i członkowie honorowi Stowarzyszenia z terenu działania Grupy z głosem doradczym,
 #.  delegaci władz krajowych z głosem doradczym.
 
 Art. 77.
@@ -540,7 +540,7 @@ Do kompetencji Zarządu Grupy należy:
 
 Art. 81.
 
-Zarząd Grupy podejmuje także uchwały dotyczące przyjęcia w poczet członków Zwyczajnych oraz w sprawach ustania członkostwa. Uchwały te wymagają zatwierdzenia przez Zarząd Krajowy.
+Zarząd Grupy podejmuje także uchwały dotyczące przyjęcia w poczet członków zwyczajnych oraz w sprawach ustania członkostwa. Uchwały te wymagają zatwierdzenia przez Zarząd Krajowy.
 
 Art. 82.
 
