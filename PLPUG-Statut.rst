@@ -95,7 +95,7 @@ Członkowie Stowarzyszenia dzielą się na:
 
 Art. 11.
 
-Cudzoziemcy mogą być członkami Stowarzyszenia na równi z obywatelami polskimi.
+__Usunięty__
 
 Art. 12.
 
