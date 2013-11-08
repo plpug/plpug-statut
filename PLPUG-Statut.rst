@@ -68,7 +68,7 @@ Sposoby realizacji celów:
 #. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia.
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
-    * działalności społeczności użytkowników Pythona,
+    * działalności społeczności Pythona,
     * aktualizacji Pythona, jak również związanego z nim oprogramowania,
     * patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw,
     * publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
