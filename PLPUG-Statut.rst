@@ -348,7 +348,7 @@ Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i składa si
 #.  Wiceprzewodniczącego,
 #.  Sekretarza.
 
-Hierarcha ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
+Hierarchia ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
 
 Art. 49.
 
@@ -472,7 +472,7 @@ Art. 71.
 
 Władzami Grupy są:
 
-#.  Walne Zebrania Członków Grupy,
+#.  Walne Zebranie Członków Grupy,
 #.  Zarząd Grupy.
 
 Art. 72.
