@@ -54,7 +54,7 @@ Celami Stowarzyszenia są:
 #. Wspieranie lokalnych grup użytkowników Pythona oraz innych społeczności wykorzystujących ten język programowania.
 #. Wspieranie projektów związanych z Pythonem.
 #. Wspieranie rozwoju rynku pracy dla programistów Pythona.
-#. Realizacja projektów edukacyjnych w szkolnictwie z wykorzystaniem Pythona.
+#. Działalność na rzecz szkolnictwa i edukacji.
 
 Art. 9.
 
@@ -79,6 +79,9 @@ Sposoby realizacji celów:
     * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode,
     * "Planety polskich programistów Pythona".
     * serwisu ogłoszeniowego z ofertami pracy dla programistów Pythona.
+
+#. Tworzenie projektów edukacyjnych w Pythonie dla wykorzystania w szkolnictwie.
+#. Organizowanie szkoleń i wykładów z programowania z wykorzystaniem Pythona.
 
 **Rozdział 3. Członkowie, ich prawa i obowiązki**
 
