@@ -535,7 +535,7 @@ Art. 80.
 Do kompetencji Zarządu Grupy należy:
 
 #.  wykonywanie wiążących Grupę uchwał władz krajowych Stowarzyszenia,
-#.  realizacja zadań określony przez Walne Zebranie Członków Grupy,
+#.  realizacja zadań określonych przez Walne Zebranie Członków Grupy,
 #.  kierowanie bieżącą działalnością Grupy,
 #.  zwoływanie i organizowanie zebrań członków Grupy,
 #.  opracowanie i realizowanie rocznych planów pracy i planów finansowych Grupy,
