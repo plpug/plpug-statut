@@ -660,10 +660,7 @@ Zarząd Krajowy zobowiązany jest dołożyć wszelkich starań w celu utrzymania
 
 Art. 105.
 
-W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby:
-
-#.  Prezes Stowarzyszenia i Wiceprezes Stowarzyszenia,
-#.  Skarbnik i upoważniony członek Zarządu Krajowego.
+W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby z Zarządu Krajowego, przy czym przynajmniej jedną z tych osób musi być Prezes Stowarzyszenia lub Wiceprezes Stowarzyszenia lub Skarbnik.
 
 Art. 106.
 
