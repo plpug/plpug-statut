@@ -54,7 +54,7 @@ Celami Stowarzyszenia są:
 #. Wspieranie lokalnych grup użytkowników Pythona oraz innych społeczności wykorzystujących ten język programowania.
 #. Wspieranie projektów związanych z Pythonem.
 #. Wspieranie rozwoju rynku pracy dla programistów Pythona.
-#. Realizacja projektów edukacyjnych w szkolnictwie z wykorzystaniem Pythona.
+#. Działalność na rzecz szkolnictwa i edukacji.
 
 Art. 9.
 
@@ -68,7 +68,7 @@ Sposoby realizacji celów:
 #. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia.
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
-    * działalności społeczności użytkowników Pythona,
+    * działalności społeczności Pythona,
     * aktualizacji Pythona, jak również związanego z nim oprogramowania,
     * patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw,
     * publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
@@ -79,6 +79,9 @@ Sposoby realizacji celów:
     * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode,
     * "Planety polskich programistów Pythona".
     * serwisu ogłoszeniowego z ofertami pracy dla programistów Pythona.
+
+#. Tworzenie projektów edukacyjnych w Pythonie dla wykorzystania w szkolnictwie.
+#. Organizowanie szkoleń i wykładów z programowania z wykorzystaniem Pythona.
 
 **Rozdział 3. Członkowie, ich prawa i obowiązki**
 
@@ -92,7 +95,7 @@ Członkowie Stowarzyszenia dzielą się na:
 
 Art. 11.
 
-Cudzoziemcy mogą być członkami Stowarzyszenia na równi z obywatelami polskimi.
+__Usunięty__
 
 Art. 12.
 
@@ -345,7 +348,7 @@ Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i składa si
 #.  Wiceprzewodniczącego,
 #.  Sekretarza.
 
-Hierarcha ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
+Hierarchia ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
 
 Art. 49.
 
@@ -469,7 +472,7 @@ Art. 71.
 
 Władzami Grupy są:
 
-#.  Walne Zebrania Członków Grupy,
+#.  Walne Zebranie Członków Grupy,
 #.  Zarząd Grupy.
 
 Art. 72.
@@ -532,7 +535,7 @@ Art. 80.
 Do kompetencji Zarządu Grupy należy:
 
 #.  wykonywanie wiążących Grupę uchwał władz krajowych Stowarzyszenia,
-#.  realizacja zadań określony przez Walne Zebranie Członków Grupy,
+#.  realizacja zadań określonych przez Walne Zebranie Członków Grupy,
 #.  kierowanie bieżącą działalnością Grupy,
 #.  zwoływanie i organizowanie zebrań członków Grupy,
 #.  opracowanie i realizowanie rocznych planów pracy i planów finansowych Grupy,
@@ -657,10 +660,7 @@ Zarząd Krajowy zobowiązany jest dołożyć wszelkich starań w celu utrzymania
 
 Art. 105.
 
-W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby:
-
-#.  Prezes Stowarzyszenia i Wiceprezes Stowarzyszenia,
-#.  Skarbnik i upoważniony członek Zarządu Krajowego.
+W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby z Zarządu Krajowego, przy czym przynajmniej jedną z tych osób musi być Prezes Stowarzyszenia lub Wiceprezes Stowarzyszenia lub Skarbnik.
 
 Art. 106.
 
