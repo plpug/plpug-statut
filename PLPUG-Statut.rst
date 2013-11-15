@@ -160,7 +160,7 @@ Od uchwały Zarządu Krajowego, lub zatwierdzonej uchwały Zarządu właściwej 
 
 Art. 21.
 
-Walne Zebranie Członków rozpatruje odwołanie na najbliższym posiedzeniu. Od dnia doręczenia decyzji o wykluczeniu ze Stowarzyszenia członek Stowarzyszenia jest zawieszony w prawach członkowskich.
+Walne Zebranie Członków rozpatruje odwołanie na najbliższym posiedzeniu. Członek Stowarzyszenia przestaje nim być od dnia doręczenia decyzji o wykluczeniu ze Stowarzyszenia.
 
 Art. 22.
 
