@@ -339,7 +339,7 @@ Do kompetencji Zarządu Krajowego należy:
 
 Art. 47.
 
-Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i składa się z 3 do 5 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
+Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i w jej skład wchodzi od 3 do 5 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
 
 #.  Przewodniczącego,
 #.  Wiceprzewodniczącego,
@@ -377,7 +377,7 @@ Członkowie Komisji Rewizyjnej mogą brać udział w posiedzeniach Zarządu Kraj
 
 Art. 53.
 
-Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i składa się z 3 do 7 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
+Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i w jego skład wchodzi od 3 do 7 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
 
 #.  Przewodniczącego,
 #.  Wiceprzewodniczącego,
