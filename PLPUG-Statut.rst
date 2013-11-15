@@ -301,7 +301,7 @@ Rozwiązanie Stowarzyszenia może nastąpić na mocy uchwały Walnego Zebrania C
 
 Art. 42.
 
-W skład Zarządu Krajowego wchodzi z 4 do 6 osób, w tym:
+W skład Zarządu Krajowego wchodzi od 4 do 6 osób, w tym:
 
 #.  Prezes,
 #.  Wiceprezes,
@@ -518,7 +518,7 @@ Na wniosek Zarządu Krajowego lub co najmniej 1/3 członków Zwyczajnych Stowarz
 
 Art. 78.
 
-W skład Zarządu Grupy wchodzi z 4 do 6 osób, w tym:
+W skład Zarządu Grupy wchodzi od 4 do 6 osób, w tym:
 
 #.  Prezes,
 #.  Wiceprezes,
