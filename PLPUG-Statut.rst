@@ -181,7 +181,7 @@ Art. 24.
 
 Członek zwyczajny Stowarzyszenia ma prawo:
 
-#.  uczestnictwa w Walnych Zebraniach Członków,
+#.  uczestnictwa z głosem stanowiącym w Walnych Zebraniach Członków,
 #.  wybierania i bycia wybieranym do władz Stowarzyszenia,
 #.  uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
 #.  korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
