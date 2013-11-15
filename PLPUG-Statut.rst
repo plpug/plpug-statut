@@ -560,7 +560,7 @@ Posiedzenia Zarządu Grupy odbywają się w miarę potrzeb, nie rzadziej jednak 
 
 Art. 85.
 
-Grupa może być zlikwidowana w następujących wypadkach:
+Grupa może być zlikwidowana w następujących przypadkach:
 
 #.  spadku liczby członków danej Grupy poniższej 15,
 #.  wniosku Walnego Zebrania Członków Grupy w formie uchwały powziętej większością 2/3 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania,
