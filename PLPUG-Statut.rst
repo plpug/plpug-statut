@@ -181,7 +181,7 @@ Art. 24.
 
 Członek zwyczajny Stowarzyszenia ma prawo:
 
-#.  uczestnictwa w Walnych Zebraniach Członków,
+#.  uczestnictwa z głosem stanowiącym w Walnych Zebraniach Członków,
 #.  wybierania i bycia wybieranym do władz Stowarzyszenia,
 #.  uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
 #.  korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
@@ -301,7 +301,7 @@ Rozwiązanie Stowarzyszenia może nastąpić na mocy uchwały Walnego Zebrania C
 
 Art. 42.
 
-W skład Zarządu Krajowego wchodzi z 4 do 6 osób, w tym:
+W skład Zarządu Krajowego wchodzi od 4 do 6 osób, w tym:
 
 #.  Prezes,
 #.  Wiceprezes,
@@ -339,7 +339,7 @@ Do kompetencji Zarządu Krajowego należy:
 
 Art. 47.
 
-Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i składa się z 3 do 5 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
+Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i w jej skład wchodzi od 3 do 5 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
 
 #.  Przewodniczącego,
 #.  Wiceprzewodniczącego,
@@ -377,7 +377,7 @@ Członkowie Komisji Rewizyjnej mogą brać udział w posiedzeniach Zarządu Kraj
 
 Art. 53.
 
-Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i składa się z 3 do 7 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
+Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i w jego skład wchodzi od 3 do 7 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
 
 #.  Przewodniczącego,
 #.  Wiceprzewodniczącego,
@@ -518,7 +518,7 @@ Na wniosek Zarządu Krajowego lub co najmniej 1/3 członków Zwyczajnych Stowarz
 
 Art. 78.
 
-W skład Zarządu Grupy wchodzi z 4 do 6 osób, w tym:
+W skład Zarządu Grupy wchodzi od 4 do 6 osób, w tym:
 
 #.  Prezes,
 #.  Wiceprezes,
@@ -560,7 +560,7 @@ Posiedzenia Zarządu Grupy odbywają się w miarę potrzeb, nie rzadziej jednak 
 
 Art. 85.
 
-Grupa może być zlikwidowana w następujących wypadkach:
+Grupa może być zlikwidowana w następujących przypadkach:
 
 #.  spadku liczby członków danej Grupy poniższej 15,
 #.  wniosku Walnego Zebrania Członków Grupy w formie uchwały powziętej większością 2/3 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania,
