@@ -8,7 +8,7 @@
 * Rozdział 2. Cele i formy działania
 * Rozdział 3. Członkowie, ich prawa i obowiązki
 * Rozdział 4. Władze Stowarzyszenia
-* Rozdział 5. Grupy i koła
+* Rozdział 5. Grupy i Koła
 * Rozdział 6. Majątek i fundusze
 
 **Rozdział 1. Postanowienia ogólne**
@@ -448,7 +448,7 @@ Art. 65.
 
 Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
 
-**Rozdział 5. Grupy i koła**
+**Rozdział 5. Grupy i Koła**
 
 Art. 66.
 
