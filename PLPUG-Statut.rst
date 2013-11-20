@@ -97,8 +97,8 @@ Art. 11.
 
 Członkiem zwyczajnym Stowarzyszenia może zostać osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która:
 
-#.  uzyskała zgodę Zarządu na przyjęcie w poczet członków,
 #.  przekazała Zarządowi wypełnioną deklarację członkowską w formie pisemnej albo elektronicznej,
+#.  uzyskała zgodę Zarządu na przyjęcie w poczet członków,
 #.  opłaciła składkę członkowską.
 
 Art. 12.
@@ -166,7 +166,7 @@ Art. 22.
 
 Członek zwyczajny Stowarzyszenia ma obowiązek:
 
-#.  aktywnego udziału w działalności Stowarzyszenia i realizacji jego celów,
+#.  udziału w działalności Stowarzyszenia i realizacji jego celów,
 #.  przestrzegania Statutu i uchwał władz Stowarzyszenia,
 #.  regularnego opłacania składek.
 
@@ -255,11 +255,18 @@ Walne Zebranie Członków może być zwyczajne lub nadzwyczajne.
 
 Art. 36.
 
+Uchwały Walnego Zgromadzenia Członków zapadają zwykłą większością głosów przy obecności:
+
+#.  w pierwszym terminie - co najmniej połowy uprawnionych do głosowania członków,
+#.  w drugim terminie – wyznaczonym w tym samym dniu, trzydzieści minut później niż pierwszy termin – bez względu na liczbę członków uprawnionych do głosowania.
+
+Art. 37.
+
 Walne Zebranie Członków zwyczajne jest zwoływane raz na dwa lata przez Zarząd Krajowy w siedzibie Stowarzyszenia lub innym dogodnym miejscu, jako zebranie sprawozdawczo-wyborcze.
 
 Termin obrad Zarząd Krajowy podaje do wiadomości wszystkich członków co najmniej 30 dni kalendarzowych przed pierwszym terminem zebrania.
 
-Art. 37.
+Art. 38.
 
 Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie Stowarzyszenia lub innym dogodnym miejscu. Jest zwoływane przez Zarząd Krajowy z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
 
@@ -267,11 +274,11 @@ Pierwszy termin nadzwyczajnego Walnego Zebrania Członków powinien być określ
 
 Wniosek powinien zawierać propozycje terminów oraz porządku obrad.
 
-Art. 38.
+Art. 39.
 
 Walne Zebranie Członków nadzwyczajne obraduje nad sprawami, dla których zostało zwołane, według uchwalonego przez siebie regulaminu obrad.
 
-Art. 39.
+Art. 40.
 
 Do kompetencji Walnego Zebrania Członków należy:
 
@@ -285,7 +292,7 @@ Do kompetencji Walnego Zebrania Członków należy:
 #.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia lub jego władze,
 #.  podejmowanie uchwał w sprawach niezastrzeżonych do kompetencji innych władz Stowarzyszenia.
 
-Art. 40.
+Art. 41.
 
 Walne Zebranie Członków podejmuje większością 2/3 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania w sprawie:
 
@@ -293,13 +300,13 @@ Walne Zebranie Członków podejmuje większością 2/3 głosów przy obecności 
 #.  odwołania przed upływem kadencji Prezesa lub członków władz Stowarzyszenia,
 #.  pozbawienia statusu członka honorowego.
 
-Art. 41.
+Art. 42.
 
 Rozwiązanie Stowarzyszenia może nastąpić na mocy uchwały Walnego Zebrania Członków podjętej większością 3/4 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania.
 
 *Zarząd Krajowy*
 
-Art. 42.
+Art. 43.
 
 W skład Zarządu Krajowego wchodzi od 4 do 6 osób, w tym:
 
@@ -308,19 +315,19 @@ W skład Zarządu Krajowego wchodzi od 4 do 6 osób, w tym:
 #.  Sekretarz,
 #.  Skarbnik.
 
-Art. 43.
+Art. 44.
 
 Zarząd Krajowy jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie wobec organów administracyjnych i sądów.
 
-Art. 44.
+Art. 45.
 
 Posiedzenia Zarządu Krajowego odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenie Zarządu Krajowego zwołuje Prezes lub dwóch członków Zarządu Krajowego działających łącznie.
 
-Art. 45.
+Art. 46.
 
 Zarząd Krajowy podejmuje uchwały zwykłą większością głosów w obecności większości swojego składu. W sytuacji równego rozłożenia głosów decyduje głos Prezesa, a pod jego nieobecność głos Wiceprezesa.
 
-Art. 46.
+Art. 47.
 
 Do kompetencji Zarządu Krajowego należy:
 
@@ -337,7 +344,7 @@ Do kompetencji Zarządu Krajowego należy:
 
 *Komisja Rewizyjna*
 
-Art. 47.
+Art. 48.
 
 Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i w jej skład wchodzi od 3 do 5 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
 
@@ -347,11 +354,11 @@ Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i w jej skł
 
 Hierarchia ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
 
-Art. 48.
+Art. 49.
 
 Członkowie Komisji Rewizyjnej nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
 
-Art. 49.
+Art. 50.
 
 Do zakresu działań Komisji Rewizyjnej należy:
 
@@ -361,21 +368,21 @@ Do zakresu działań Komisji Rewizyjnej należy:
 #.  składanie na sprawozdawczo-wyborczym Walnym Zebraniu Członków wniosków o udzielenie lub nieudzielenie absolutorium Zarządowi Krajowemu,
 #.  składanie sprawozdań ze swojej działalności na sprawozdawczo-wyborczym Walnym Zebraniu Członków.
 
-Art. 50.
+Art. 51.
 
 Komisja Rewizyjna ma prawo żądania od członków i przedstawicieli władz Stowarzyszenia wszystkich szczebli składania pisemnych bądź ustnych wyjaśnień dotyczących kontrolowanych spraw.
 
-Art. 51.
+Art. 52.
 
 Tryb i forma działania Komisji Rewizyjnej określa regulamin przez nią uchwalony.
 
-Art. 52.
+Art. 53.
 
 Członkowie Komisji Rewizyjnej mogą brać udział w posiedzeniach Zarządu Krajowego z głosem doradczym.
 
 *Sąd Koleżeński*
 
-Art. 53.
+Art. 54.
 
 Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i w jego skład wchodzi od 3 do 7 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
 
@@ -385,11 +392,11 @@ Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia i w jego sk�
 
 Hierarchia ustalana jest na zasadach identycznych jak dla Zarządu Krajowego.
 
-Art. 54.
+Art. 55.
 
 Członkowie Sądu Koleżeńskiego nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
 
-Art. 55.
+Art. 56.
 
 Do zakresu działań Sądu Koleżeńskiego należy:
 
@@ -398,15 +405,15 @@ Do zakresu działań Sądu Koleżeńskiego należy:
 #.  rozpatrywanie spraw związanych z nieprzestrzeganiem Statutu i uchwał władz Stowarzyszenia lub działaniem na szkodę Stowarzyszenia,
 #.  składanie sprawozdań ze swojej działalności Walnemu Zebraniu Członków.
 
-Art. 56.
+Art. 57.
 
 Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub wniosek zainteresowanych stron trzecich. Tryb i formy działania Sądu Koleżeńskiego określa regulamin przezeń uchwalony.
 
-Art. 57.
+Art. 58.
 
 Na wniosek Rzecznika Dyscyplinarnego Sąd Koleżeński może orzec wobec członka władz Stowarzyszenia o czasowym zawieszeniu go w pełnieniu funkcji do czasu ostatecznego rozstrzygnięcia sprawy, w której Rzecznik Dyscyplinarny prowadzi postępowanie.
 
-Art. 58.
+Art. 59.
 
 Sąd Koleżeński, stwierdzając w orzeczeniu naruszenie Statutu lub uchwał władz Stowarzyszenia, może orzec karę:
 
@@ -415,74 +422,74 @@ Sąd Koleżeński, stwierdzając w orzeczeniu naruszenie Statutu lub uchwał wł
 #.  zawieszenia w prawach członkowskich na okres od jednego do dwóch lat,
 #.  trwałego wykluczenia ze Stowarzyszenia.
 
-Art. 59.
+Art. 60.
 
 Od orzeczenia Sądu Koleżeńskiego służy stronom prawo odwołania do Walnego Zebrania Członków. Odwołanie wnosi się w terminie 30 dni kalendarzowych od otrzymania orzeczenia Sądu Koleżeńskiego za pośrednictwem Zarządu Krajowego. Odwołanie rozpatrywane jest na najbliższym zebraniu.
 
-Art. 60.
+Art. 61.
 
 Przewodniczący Sądu Koleżeńskiego ma prawo uczestniczenia w posiedzeniach Zarządu Krajowego i Komisji Rewizyjnej z głosem doradczym.
 
 *Rzecznik Dyscyplinarny*
 
-Art. 61.
+Art. 62.
 
 Rzecznik Dyscyplinarny wybierany jest przez Walne Zebranie Członków.
 
-Art. 62.
+Art. 63.
 
 Rzecznik Dyscyplinarny nie może pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
 
-Art. 63.
+Art. 64.
 
 Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania dyscyplinarnego w przypadku uzyskania informacji o naruszeniu przez członka Stowarzyszenia postanowień Statutu lub uchwał władz Stowarzyszenia oraz kierowanie spraw do Sądu Koleżeńskiego.
 
-Art. 64.
+Art. 65.
 
 Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
 
 **Rozdział 5. Grupy i koła**
 
-Art. 65.
+Art. 66.
 
 Jednostkami organizacyjnymi Stowarzyszenia są Lokalne Grupy Użytkowników Pythona, zwane dalej Grupami oraz Koła.
 
 *Grupy*
 
-Art. 66.
+Art. 67.
 
 Grupy powołuje co najmniej 15 członków zwyczajnych Stowarzyszenia, zwanych dalej członkami założycielskimi Grupy, wskazując proponowany zakres terytorialny ich działania.
 
-Art. 67.
+Art. 68.
 
 Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy powstania Grupy na pisemny wniosek jej założycieli. Zarząd Krajowy wpisuje Grupę do prowadzonej ewidencji. Zarząd Krajowy rozpocznie rozpoznawanie wniosku na najbliższym swoim posiedzeniu.
 
-Art. 68.
+Art. 69.
 
 Grupy działają na obszarze określonym we wniosku.
 
-Art. 69.
+Art. 70.
 
 Grupy podlegają władzom krajowym Stowarzyszenia i prowadzą działalność statutową. Szczegółowe zasady działania takiej jednostki reguluje regulamin prac Zarządu Grupy, zatwierdzony przez Zarząd Krajowy.
 
-Art. 70.
+Art. 71.
 
 Władzami Grupy są:
 
 #.  Walne Zebranie Członków Grupy,
 #.  Zarząd Grupy.
 
-Art. 71.
+Art. 72.
 
 W sprawach nieuregulowanych odrębnie do władz Grupy stosuje się odpowiednio postanowienia Statutu dotyczące władz krajowych.
 
 *Walne Zebranie Członków Grupy*
 
-Art. 72.
+Art. 73.
 
 Walne Zebranie Członków Grupy jest najwyższą władzą Grupy i jest zwoływane nie rzadziej niż raz na rok przez Zarząd Grupy.
 
-Art. 73.
+Art. 74.
 
 Do kompetencji Walnego Zebrania Członków Grupy należy:
 
@@ -494,11 +501,11 @@ Do kompetencji Walnego Zebrania Członków Grupy należy:
 #.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Grupy lub jej władze,
 #.  podejmowanie uchwał w sprawach nie zastrzeżonych do kompetencji innych władz Grupy.
 
-Art. 74.
+Art. 75.
 
 Zarząd Grupy powiadamia członków Grupy i Zarząd Krajowy o terminie i porządku obrad Walnego Zebrania Członków Grupy co najmniej na 30 dni kalendarzowych przed jego odbyciem.
 
-Art. 75.
+Art. 76.
 
 W Walnym Zebraniu Członków Grupy uczestniczą:
 
@@ -506,17 +513,17 @@ W Walnym Zebraniu Członków Grupy uczestniczą:
 #.  członkowie wspierający i członkowie honorowi Stowarzyszenia z terenu działania Grupy z głosem doradczym,
 #.  delegaci władz krajowych z głosem doradczym.
 
-Art. 76.
+Art. 77.
 
 Szczegółowe zasady przeprowadzenia wyborów władz Grupy określa regulamin uchwalony przez Zarząd Krajowy Stowarzyszenia.
 
-Art. 77.
+Art. 78.
 
 Na wniosek Zarządu Krajowego lub co najmniej 1/3 członków Zwyczajnych Stowarzyszenia zrzeszonych w Grupie, Zarząd Grupy zwołuje Nadzwyczajne Walne Zebranie Członków Grupy w ciągu 60 dni kalendarzowych od daty zgłoszenia wniosku.
 
 *Zarząd Grupy*
 
-Art. 78.
+Art. 79.
 
 W skład Zarządu Grupy wchodzi od 4 do 6 osób, w tym:
 
@@ -527,7 +534,7 @@ W skład Zarządu Grupy wchodzi od 4 do 6 osób, w tym:
 
 Dla swej skuteczności wybór Zarządu Grupy wymaga zatwierdzenia przez Zarząd Krajowy.
 
-Art. 79.
+Art. 80.
 
 Do kompetencji Zarządu Grupy należy:
 
@@ -538,27 +545,27 @@ Do kompetencji Zarządu Grupy należy:
 #.  opracowanie i realizowanie rocznych planów pracy i planów finansowych Grupy,
 #.  gospodarowanie majątkiem Grupy, pozostawionym do dyspozycji Grupy przez Zarząd Krajowy.
 
-Art. 80.
+Art. 81.
 
 Zarząd Grupy podejmuje także uchwały dotyczące przyjęcia w poczet członków zwyczajnych oraz w sprawach ustania członkostwa. Uchwały te wymagają zatwierdzenia przez Zarząd Krajowy.
 
-Art. 81.
+Art. 82.
 
 Zarząd Grupy składa sprawozdania z działalności Grupy Zarządowi Krajowemu Stowarzyszenia w terminach ustalonych regulaminem przez Zarząd Krajowy.
 
-Art. 82.
+Art. 83.
 
 Zarząd Grupy jest uprawniony do składania oświadczeń woli dotyczących praw i obowiązków majątkowych, na podstawie stałego pełnomocnictwa udzielanego jego członkom przez Zarząd Krajowy. Do składania oświadczeń woli w sprawach przekraczających zakres zwykłego zarządu wymagane jest każdorazowo odrębne pełnomocnictwo Stowarzyszenia udzielane przez Zarząd Krajowy.
 
-Art. 83.
+Art. 84.
 
 Sprawy wykraczające poza zakres działania Zarządu Grupy oraz sprawy o szczególnym znaczeniu dla Stowarzyszenia Zarząd Grupy wnosi pod obrady Zarządu Krajowego przed podjęciem działania w takich sprawach.
 
-Art. 84.
+Art. 85.
 
 Posiedzenia Zarządu Grupy odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 4 miesiące.
 
-Art. 85.
+Art. 86.
 
 Grupa może być zlikwidowana w następujących przypadkach:
 
@@ -566,62 +573,62 @@ Grupa może być zlikwidowana w następujących przypadkach:
 #.  wniosku Walnego Zebrania Członków Grupy w formie uchwały powziętej większością 2/3 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania,
 #.  braku uzasadnienia organizacyjnego lub statutowego do dalszego istnienia Grupy.
 
-Art. 86.
+Art. 87.
 
 Decyzję o likwidacji Grupy podejmuje w formie uchwały Zarząd Krajowy. Nie podejmuje się decyzji o likwidacji Grupy jeżeli możliwe jest połączenie Grup.
 
-Art. 87.
+Art. 88.
 
 Na podstawie uchwał Walnych Zebrań zainteresowanych Grup Zarząd Krajowy może podjąć uchwałę o podziale lub o połączeniu Grup.
 
 *Koła*
 
-Art. 88.
+Art. 89.
 
 Koła powołuje co najmniej 3 członków zwyczajnych Stowarzyszenia, zwanych dalej członkami założycielskimi Koła, którzy określają, czy Koło ma mieć charakter terytorialny czy przedmiotowy.
 
-Art. 89.
+Art. 90.
 
 Koła terytorialne nie mogą przekraczać granic istniejącej Grupy.
 
-Art. 90.
+Art. 91.
 
 Koła przedmiotowe są Kołami o zasięgu krajowym.
 
-Art. 91.
+Art. 92.
 
 Koło powstaje z chwilą zatwierdzenia przez Zarząd Krajowy, lub odpowiedni terytorialnie Zarząd Grupy, na pisemny wniosek jego założycieli. Zarząd Krajowy lub odpowiednio dla Kół terytorialnych Zarząd Grupy wpisuje Koło do prowadzonej ewidencji.
 
-Art. 92.
+Art. 93.
 
 Powołanie Koła przez odpowiedni terytorialny Zarząd Grupy wymaga akceptacji przez Zarząd Krajowy.
 
-Art. 93.
+Art. 94.
 
 Zarząd Krajowy lub odpowiednio terytorialnie Zarząd Grupy, powołuje na podstawie rekomendacji członków Koła Prezesa Koła i określa cele oraz regulamin działania Koła.
 
-Art. 94.
+Art. 95.
 
 W przypadku Kół przedmiotowych członkami Koła mogą zostać osoby nie będące członkami Stowarzyszenia, pod warunkiem, że zobowiązują się do przestrzegania Regulaminu Koła, Statutu i postanowień Władz Stowarzyszenia.
 
-Art. 95.
+Art. 96.
 
 Koło Stowarzyszenia może zostać zlikwidowane na podstawie:
 
 #.  decyzji Zarządu Krajowego w przypadku nieprzestrzegania regulaminu, Statutu czy postanowień władz krajowych,
 #.  decyzji Zarządu Grupy, odpowiedniej terytorialnie dla Koła o zasięgu terytorialnym, w przypadku nie przestrzegania regulaminu, braku uzasadnienia organizacyjnego lub statutowego do dalszego istnienia Koła.
 
-Art. 96.
+Art. 97.
 
 Do likwidacji, łączenia i podziału Kół stosuje się odpowiednio przepisy o Grupach.
 
 **Rozdział 6. Majątek i fundusze**
 
-Art. 97.
+Art. 98.
 
 Majątek Stowarzyszenia stanowią nieruchomości, ruchomości i fundusze.
 
-Art. 98.
+Art. 99.
 
 Majątek Stowarzyszenia powstaje z:
 
@@ -635,31 +642,31 @@ Majątek Stowarzyszenia powstaje z:
 #.  wpływów z loterii, aukcji i sponsoringu,
 #.  dochody z działalności gospodarczej prowadzonej przez Stowarzyszenie zgodnie z obowiązującymi przepisami prawa.
 
-Art. 99.
+Art. 100.
 
 Dochody z działalności gospodarczej służą realizacji celów Stowarzyszenia i nie mogą być przeznaczone do podziału między jej członków.
 
-Art. 100.
+Art. 101.
 
 Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na to konto przelane.
 
-Art. 101.
-
-Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd Krajowy Stowarzyszenia.
-
 Art. 102.
 
-Zarząd Krajowy może tworzyć fundusze celowe, wyodrębniając w tym celu posiadane w swojej dyspozycji środki finansowe.
+Częstotliwość, wysokość składek członkowskich i termin ich wpłacania ustala Zarząd Krajowy Stowarzyszenia.
 
 Art. 103.
 
-Zarząd Krajowy zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
+Zarząd Krajowy może tworzyć fundusze celowe, wyodrębniając w tym celu posiadane w swojej dyspozycji środki finansowe.
 
 Art. 104.
 
-W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby z Zarządu Krajowego, przy czym przynajmniej jedną z tych osób musi być Prezes Stowarzyszenia, Wiceprezes Stowarzyszenia albo Skarbnik.
+Zarząd Krajowy zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
 
 Art. 105.
+
+W imieniu Stowarzyszenia dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby z Zarządu Krajowego, przy czym przynajmniej jedną z tych osób musi być Prezes Stowarzyszenia, Wiceprezes Stowarzyszenia albo Skarbnik.
+
+Art. 106.
 
 Zabronione jest:
 
