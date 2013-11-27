@@ -305,11 +305,11 @@ Do kompetencji Walnego Zebrania Członków należy:
 
 Art. 42.
 
-W sprawach zmian Statutu, odwołania przed upływem kadencji Prezesa lub członków władz Stowarzyszenia oraz pozbawienia statusu członka honorowego Walne Zebranie Członków podejmuje decyzje zgodnie z artykułem 32, ale wymaganą większością 2/3 głosów.
+W sprawach zmian Statutu, odwołania przed upływem kadencji Prezesa lub członków władz Stowarzyszenia oraz pozbawienia statusu członka honorowego Walne Zebranie Członków podejmuje decyzje zgodnie z artykułem 34, ale wymaganą większością 2/3 głosów.
 
 Art. 43.
 
-W sprawie rozwiązania Stowarzyszenia Walne Zebranie Członków podejmuje decyzje zgodnie z artykułem 32, ale wymaganą większością 3/4 głosów.
+W sprawie rozwiązania Stowarzyszenia Walne Zebranie Członków podejmuje decyzje zgodnie z artykułem 34, ale wymaganą większością 3/4 głosów.
 
 *Zarząd*
 
