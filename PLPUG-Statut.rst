@@ -280,6 +280,7 @@ Do kompetencji Walnego Zebrania Członków należy:
 #.  wybór i odwoływanie wszystkich władz oraz członków Stowarzyszenia,
 #.  rozpatrywanie sprawozdań wszystkich władz Stowarzyszenia,
 #.  udzielanie Zarządowi Krajowemu absolutorium na wniosek Komisji Rewizyjnej,
+#.  ustalenie wysokości składek i terminu ich wpłacania,
 #.  uchwalenie rocznego budżetu Stowarzyszenia,
 #.  nadawanie i pozbawienie statusu członka honorowego Stowarzyszenia,
 #.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia lub jego władze,
@@ -331,6 +332,7 @@ Do kompetencji Zarządu Krajowego należy:
 #.  składanie sprawozdań ze swojej działalności, a także rocznych sprawozdań finansowych na sprawozdawczo-wyborczym Walnym Zebraniu Członków,
 #.  sprawowanie zarządu nad majątkiem Stowarzyszenia,
 #.  powoływanie i rozwiązywanie komisji i zespołów w celu wykonania zadań statutowych, sprawowanie nad nimi nadzoru i uchwalanie regulaminów ich działalności,
+#.  powoływanie i rozwiązywanie Grup i Kół podległych Zarządowi Krajowemu oraz nadzorowanie i koordynowanie ich działalności,
 #.  podejmowanie uchwał o przyjęciu bądź skreśleniu członków zwyczajnych i członków wspierających Stowarzyszenia z listy członków,
 #.  reprezentowanie Stowarzyszenia wobec organów administracji i sądów,
 #.  podejmowanie innych decyzji przewidzianych w Statucie.
@@ -441,12 +443,18 @@ Art. 64.
 
 Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
 
+
+
+===================================================================================================
 **Rozdział 5. Grupy i koła**
+===================================================================================================
+
 
 Art. 65.
 
-Jednostkami organizacyjnymi Stowarzyszenia są Lokalne Grupy Użytkowników Pythona, zwane dalej Grupami oraz Koła.
+Terenowymi jednostkami organizacyjnymi Stowarzyszenia są lokalne Grupy Użytkowników Pythona, zwane dalej Grupami oraz Koła.
 
+__________________________________________________________________________________________________
 *Grupy*
 
 Art. 66.
@@ -455,7 +463,7 @@ Grupy powołuje co najmniej 15 członków zwyczajnych Stowarzyszenia, zwanych da
 
 Art. 67.
 
-Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy powstania Grupy na pisemny wniosek jej założycieli. Zarząd Krajowy wpisuje Grupę do prowadzonej ewidencji. Zarząd Krajowy rozpocznie rozpoznawanie wniosku na najbliższym swoim posiedzeniu.
+Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy powstania Grupy na pisemny wniosek jej założycieli. Zarząd Krajowy wpisuje Grupę do prowadzonej ewidencji. Zarząd Krajowy rozpatruje wniosek na najbliższym swoim posiedzeniu.
 
 Art. 68.
 
@@ -463,7 +471,7 @@ Grupy działają na obszarze określonym we wniosku.
 
 Art. 69.
 
-Grupy podlegają władzom krajowym Stowarzyszenia i prowadzą działalność statutową. Szczegółowe zasady działania takiej jednostki reguluje regulamin prac Zarządu Grupy, zatwierdzony przez Zarząd Krajowy.
+Grupa prowadzą działalność statutową. Szczegółowe zasady działania takiej jednostki reguluje regulamin prac Zarządu Grupy, zatwierdzony przez Zarząd Krajowy.
 
 Art. 70.
 
@@ -471,6 +479,11 @@ Władzami Grupy są:
 
 #.  Walne Zebranie Członków Grupy,
 #.  Zarząd Grupy.
+#.  Komisja Rewizyjna Grupy
+
+Art. XX-9.
+
+Kadencja wszystkich władz wybieralnych Grupy trwa 2 lata.
 
 Art. 71.
 
@@ -489,7 +502,7 @@ Do kompetencji Walnego Zebrania Członków Grupy należy:
 #.  określenie głównych kierunków działania i rozwoju Grupy na okres kadencji,
 #.  wybór i odwoływanie wszystkich władz oraz członków Grupy,
 #.  rozpatrywanie sprawozdań wszystkich władz Grupy,
-#.  udzielanie Zarządowi Grupy absolutorium,
+#.  udzielanie ustępującemu Zarządowi Grupy absolutorium,
 #.  uchwalenie rocznego budżetu Grupy,
 #.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Grupy lub jej władze,
 #.  podejmowanie uchwał w sprawach nie zastrzeżonych do kompetencji innych władz Grupy.
@@ -512,7 +525,14 @@ Szczegółowe zasady przeprowadzenia wyborów władz Grupy określa regulamin uc
 
 Art. 77.
 
-Na wniosek Zarządu Krajowego lub co najmniej 1/3 członków Zwyczajnych Stowarzyszenia zrzeszonych w Grupie, Zarząd Grupy zwołuje Nadzwyczajne Walne Zebranie Członków Grupy w ciągu 60 dni kalendarzowych od daty zgłoszenia wniosku.
+Nadzwyczajne Walne Zebranie Członków Grupy zwołuje Zarząd Grupy:
+
+#.  z własnej inicjatywy,
+#.  na wniosek Komisji Rewizyjnej Grupy
+#.  na wniosek Zarządu Krajowego
+#.  na wniosek co najmniej 1/3 liczby członków Zwyczajnych Stowarzyszenia zrzeszonych w Grupie,
+
+w terminie nie później niż 60 dni od daty zgłoszenia wniosku.
 
 *Zarząd Grupy*
 
@@ -527,6 +547,10 @@ W skład Zarządu Grupy wchodzi od 4 do 6 osób, w tym:
 
 Dla swej skuteczności wybór Zarządu Grupy wymaga zatwierdzenia przez Zarząd Krajowy.
 
+Art. XX-1.
+
+Zarząd Grupy podlega Zarządowi Krajowemu Stowarzyszenia.
+
 Art. 79.
 
 Do kompetencji Zarządu Grupy należy:
@@ -534,9 +558,10 @@ Do kompetencji Zarządu Grupy należy:
 #.  wykonywanie wiążących Grupę uchwał władz krajowych Stowarzyszenia,
 #.  realizacja zadań określonych przez Walne Zebranie Członków Grupy,
 #.  kierowanie bieżącą działalnością Grupy,
-#.  zwoływanie i organizowanie zebrań członków Grupy,
+#.  zwoływanie i organizowanie zebrań Członków Grupy,
 #.  opracowanie i realizowanie rocznych planów pracy i planów finansowych Grupy,
-#.  gospodarowanie majątkiem Grupy, pozostawionym do dyspozycji Grupy przez Zarząd Krajowy.
+#.  gospodarowanie majątkiem Stowarzyszenia, pozostawionym do dyspozycji Grupy przez Zarząd Krajowy,
+#.  podejmowanie innych decyzji dotyczących Grupy wynikających ze Statutu.
 
 Art. 80.
 
@@ -549,6 +574,10 @@ Zarząd Grupy składa sprawozdania z działalności Grupy Zarządowi Krajowemu S
 Art. 82.
 
 Zarząd Grupy jest uprawniony do składania oświadczeń woli dotyczących praw i obowiązków majątkowych, na podstawie stałego pełnomocnictwa udzielanego jego członkom przez Zarząd Krajowy. Do składania oświadczeń woli w sprawach przekraczających zakres zwykłego zarządu wymagane jest każdorazowo odrębne pełnomocnictwo Stowarzyszenia udzielane przez Zarząd Krajowy.
+
+Art. XX-2.
+
+W imieniu Grupy dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby z Zarządu Grupy lub Zarządu Krajowego, przy czym przynajmniej jedną z tych osób musi być Prezes Grupy, Wiceprezes Grupy albo Skarbnik Grupy.
 
 Art. 83.
 
@@ -573,6 +602,43 @@ Decyzję o likwidacji Grupy podejmuje w formie uchwały Zarząd Krajowy. Nie pod
 Art. 87.
 
 Na podstawie uchwał Walnych Zebrań zainteresowanych Grup Zarząd Krajowy może podjąć uchwałę o podziale lub o połączeniu Grup.
+
+*Komisja Rewizyjna Grupy*
+
+Art. XX-3.
+
+Komisja Rewizyjna jest organem kontroli wewnętrznej Grupy i w jej skład wchodzi od 3 do 5 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
+
+#.  Przewodniczącego,
+#.  Wiceprzewodniczącego,
+#.  Sekretarza.
+
+Art. XX-4.
+
+Członkowie Komisji Rewizyjnej Grupy nie mogą pełnić funkcji w innych władzach Grupy oraz Stowarzyszenia.
+
+Art. XX-5.
+
+Do zakresu działań Komisji Rewizyjnej Grupy należy:
+
+#.  kontrolowanie całokształtu działalności Grupy,
+#.  występowanie do Zarządu Grupy z wnioskami wynikającymi z przeprowadzonych kontroli,
+#.  występowanie do Zarządu Grupy z wnioskami o zwołanie Walnego Zebrania Członków,
+#.  składanie na sprawozdawczo-wyborczym Walnym Zebraniu Członków wniosków o udzielenie lub nieudzielenie absolutorium Zarządowi Grupy,
+#.  składanie sprawozdań ze swojej działalności na sprawozdawczo-wyborczym Walnym Zebraniu Członków Grupy.
+
+Art. XX-6.
+
+Komisja Rewizyjna Grupy ma prawo żądania od członków Grupy i przedstawicieli władz Grupy wszystkich szczebli składania pisemnych bądź ustnych wyjaśnień dotyczących kontrolowanych spraw.
+
+Art. XX-7.
+
+Tryb i forma działania Komisji Rewizyjnej Grupy określa regulamin przez nią uchwalony.
+
+Art. XX-8.
+
+Członkowie Komisji Rewizyjnej Grupy mogą brać udział w posiedzeniach Zarządu Grupy z głosem doradczym.
+
 
 *Koła*
 
@@ -642,10 +708,6 @@ Dochody z działalności gospodarczej służą realizacji celów Stowarzyszenia 
 Art. 100.
 
 Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na to konto przelane.
-
-Art. 101.
-
-Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd Krajowy Stowarzyszenia.
 
 Art. 102.
 
