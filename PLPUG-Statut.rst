@@ -443,19 +443,17 @@ Art. 64.
 
 Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
 
-
-
-===================================================================================================
 **Rozdział 5. Grupy i koła**
-===================================================================================================
-
 
 Art. 65.
 
 Terenowymi jednostkami organizacyjnymi Stowarzyszenia są lokalne Grupy Użytkowników Pythona, zwane dalej Grupami oraz Koła.
 
-__________________________________________________________________________________________________
 *Grupy*
+
+Art. XX-12.
+
+Grupy posiadają osobowość prawną.
 
 Art. 66.
 
@@ -641,6 +639,10 @@ Członkowie Komisji Rewizyjnej Grupy mogą brać udział w posiedzeniach Zarząd
 
 
 *Koła*
+
+Art. XX-13.
+
+Koła nie posiadają osobowości prawnej.
 
 Art. 88.
 
