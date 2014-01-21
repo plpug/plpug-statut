@@ -49,23 +49,23 @@ Celami Stowarzyszenia są:
 
 #. Budowa i integracja polskiej społeczności Pythona.
 #. Popularyzacja Pythona, jak również związanego z nim oprogramowania.
-#. Reprezentowanie członków Stowarzyszenia, ich opinii i potrzeb.
-#. Organizowanie bądź współorganizowanie wydarzeń realizujących przynajmniej jeden z celów Stowarzyszenia.
+#. Reprezentowanie programistów Pythona, ich opinii i potrzeb.
 #. Wspieranie lokalnych grup użytkowników Pythona oraz innych społeczności wykorzystujących ten język programowania.
+#. Współpraca z developerami Pythona i przekazywanie sugestii i propozycji użytkowników
 #. Wspieranie projektów związanych z Pythonem.
 #. Wspieranie rozwoju rynku pracy dla programistów Pythona.
-#. Działalność na rzecz szkolnictwa i edukacji.
+#. Nauka programowania w Pythonie oraz doskonalenie tych umiejętności.
 
 Art. 9.
 
 Sposoby realizacji celów:
 
-#. Organizowanie konferencji PyCon PL, promującej Pythona na terenie Rzeczypospolitej Polskiej,
-#. Organizowanie innych konferencji, warsztatów, konkursów oraz akcji służących realizacji celów statutowych Stowarzyszenia.
+#. Organizowanie konferencji PyCon PL, promującej Pythona na terenie Rzeczypospolitej Polskiej.
+#. Organizowanie innych konferencji, warsztatów, konkursów oraz akcji o charakterze edukacyjnym i informacyjnym.
 #. Finansowe i medialne wspieranie lokalnych grup użytkowników Pythona.
 #. Współpraca z Fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia.
-#. Tworzenie wolnego oprogramowania wspierającego działanie Stowarzyszenia.
-#. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia.
+#. Tworzenie wolnego oprogramowania opartego na Pythonie
+#. Tworzenie i utrzymywanie infrastruktury umożliwiającej wymianę informacji pomiędzy programistami i użytkownikami Pythona. 
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
     * działalności społeczności Pythona,
@@ -73,7 +73,7 @@ Sposoby realizacji celów:
     * patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw,
     * publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
 
-#. Zarządzanie i promowanie:
+#. Zarządzanie, utrzymywanie i promowanie mediów:
 
     * "Forum polskich programistów Pythona",
     * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode,
