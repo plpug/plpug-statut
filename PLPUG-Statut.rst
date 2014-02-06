@@ -443,17 +443,17 @@ Art. 64.
 
 Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
 
-**Rozdział 5. Grupy i koła**
+**Rozdział 5. Grupy**
 
 Art. 65.
 
-Terenowymi jednostkami organizacyjnymi Stowarzyszenia są lokalne Grupy Użytkowników Pythona, zwane dalej Grupami oraz Koła.
+Terenowymi jednostkami organizacyjnymi Stowarzyszenia są lokalne grupy użytkowników Pythona, zwane dalej Grupami.
 
 *Grupy*
 
 Art. XX-12.
 
-Grupy posiadają osobowość prawną.
+Grupy nie posiadają osobowości prawnej.
 
 Art. 66.
 
@@ -461,7 +461,11 @@ Grupy powołuje co najmniej 15 członków zwyczajnych Stowarzyszenia, zwanych da
 
 Art. 67.
 
-Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy powstania Grupy na pisemny wniosek jej założycieli. Zarząd Krajowy wpisuje Grupę do prowadzonej ewidencji. Zarząd Krajowy rozpatruje wniosek na najbliższym swoim posiedzeniu.
+Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy na pisemny wniosek jej założycieli. Zarząd Krajowy wpisuje Grupę do prowadzonej ewidencji.
+
+Art. XX-14.
+
+Członkiem Grupy może zostać wyłącznie zwyczajny Członek Stowarzyszenia. Utrata zwyczjnego Członkowstwa w Stowarzyszeniu oznacza utratę członkostwa w Grupie.
 
 Art. 68.
 
@@ -471,6 +475,30 @@ Art. 69.
 
 Grupa prowadzą działalność statutową. Szczegółowe zasady działania takiej jednostki reguluje regulamin prac Zarządu Grupy, zatwierdzony przez Zarząd Krajowy.
 
+Art. XX-9.
+
+Kadencja wszystkich wybieralnych władz Grupy trwa 2 lata.
+
+Art. 85.
+
+Grupa może być zlikwidowana w następujących przypadkach:
+
+#.  spadku liczby członków danej Grupy poniższej 15,
+#.  wniosku Walnego Zebrania Członków Grupy w formie uchwały powziętej większością 2/3 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania,
+#.  braku uzasadnienia organizacyjnego lub statutowego do dalszego istnienia Grupy.
+
+Art. 86.
+
+Decyzję o likwidacji Grupy podejmuje w formie uchwały Zarząd Krajowy. Nie podejmuje się decyzji o likwidacji Grupy jeżeli możliwe jest połączenie Grup.
+
+Art. 87.
+
+Na podstawie uchwał Walnych Zebrań zainteresowanych Grup Zarząd Krajowy może podjąć uchwałę o podziale lub o połączeniu Grup.
+
+Art. 71.
+
+W sprawach nieuregulowanych odrębnie do władz Grupy stosuje się odpowiednio postanowienia Statutu dotyczące władz krajowych.
+
 Art. 70.
 
 Władzami Grupy są:
@@ -479,47 +507,31 @@ Władzami Grupy są:
 #.  Zarząd Grupy.
 #.  Komisja Rewizyjna Grupy
 
-Art. XX-9.
-
-Kadencja wszystkich władz wybieralnych Grupy trwa 2 lata.
-
-Art. 71.
-
-W sprawach nieuregulowanych odrębnie do władz Grupy stosuje się odpowiednio postanowienia Statutu dotyczące władz krajowych.
-
 *Walne Zebranie Członków Grupy*
 
-Art. 72.
+Art. XX-15
 
-Walne Zebranie Członków Grupy jest najwyższą władzą Grupy i jest zwoływane nie rzadziej niż raz na rok przez Zarząd Grupy.
+Walne Zebranie Członków Grupy jest najwyższą władzą Grupy.
 
 Art. 73.
 
 Do kompetencji Walnego Zebrania Członków Grupy należy:
 
 #.  określenie głównych kierunków działania i rozwoju Grupy na okres kadencji,
-#.  wybór i odwoływanie wszystkich władz oraz członków Grupy,
+#.  wybór i odwoływanie wszystkich wybieralnych władz Grupy,
 #.  rozpatrywanie sprawozdań wszystkich władz Grupy,
 #.  udzielanie ustępującemu Zarządowi Grupy absolutorium,
 #.  uchwalenie rocznego budżetu Grupy,
 #.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Grupy lub jej władze,
 #.  podejmowanie uchwał w sprawach nie zastrzeżonych do kompetencji innych władz Grupy.
 
+Art. 72.
+
+Walne Zebranie Członków Grupy jest zwoływane nie rzadziej niż raz na rok przez Zarząd Grupy.
+
 Art. 74.
 
 Zarząd Grupy powiadamia członków Grupy i Zarząd Krajowy o terminie i porządku obrad Walnego Zebrania Członków Grupy co najmniej na 30 dni kalendarzowych przed jego odbyciem.
-
-Art. 75.
-
-W Walnym Zebraniu Członków Grupy uczestniczą:
-
-#.  członkowie zwyczajni Stowarzyszenia zrzeszeni w danej Grupie korzystając z czynnego i biernego prawa wyborczego w zakresie przyznanym im przez przepisy prawa,
-#.  członkowie wspierający i członkowie honorowi Stowarzyszenia z terenu działania Grupy z głosem doradczym,
-#.  delegaci władz krajowych z głosem doradczym.
-
-Art. 76.
-
-Szczegółowe zasady przeprowadzenia wyborów władz Grupy określa regulamin uchwalony przez Zarząd Krajowy Stowarzyszenia.
 
 Art. 77.
 
@@ -532,7 +544,21 @@ Nadzwyczajne Walne Zebranie Członków Grupy zwołuje Zarząd Grupy:
 
 w terminie nie później niż 60 dni od daty zgłoszenia wniosku.
 
+Art. 75.
+
+W Walnym Zebraniu Członków Grupy uczestniczą:
+
+#.  członkowie Grupy korzystając z czynnego i biernego prawa wyborczego w zakresie przyznanym im przez przepisy prawa,
+#.  członkowie zwyczajni, wspierający i członkowie honorowi Stowarzyszenia z terenu działania Grupy z głosem doradczym,
+#.  delegaci władz krajowych z głosem doradczym.
+
+
 *Zarząd Grupy*
+
+
+Art. 76.
+
+Zarząd Grupy wybierany jest w głosowaniu jawnym spośród członków Grupy przy obecności kworum stanowiącym 1/2 ogólnej liczby wszystkich członków Grupy.
 
 Art. 78.
 
@@ -559,11 +585,12 @@ Do kompetencji Zarządu Grupy należy:
 #.  zwoływanie i organizowanie zebrań Członków Grupy,
 #.  opracowanie i realizowanie rocznych planów pracy i planów finansowych Grupy,
 #.  gospodarowanie majątkiem Stowarzyszenia, pozostawionym do dyspozycji Grupy przez Zarząd Krajowy,
+#.  podejmowanie uchwał dotyczących nadania lub odebrania członkostwa w Grupie,
 #.  podejmowanie innych decyzji dotyczących Grupy wynikających ze Statutu.
 
-Art. 80.
+Art. 84.
 
-Zarząd Grupy podejmuje także uchwały dotyczące przyjęcia w poczet członków zwyczajnych oraz w sprawach ustania członkostwa. Uchwały te wymagają zatwierdzenia przez Zarząd Krajowy.
+Posiedzenia Zarządu Grupy odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 4 miesiące.
 
 Art. 81.
 
@@ -580,26 +607,6 @@ W imieniu Grupy dokumenty związane ze zobowiązaniami finansowymi podpisują dw
 Art. 83.
 
 Sprawy wykraczające poza zakres działania Zarządu Grupy oraz sprawy o szczególnym znaczeniu dla Stowarzyszenia Zarząd Grupy wnosi pod obrady Zarządu Krajowego przed podjęciem działania w takich sprawach.
-
-Art. 84.
-
-Posiedzenia Zarządu Grupy odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 4 miesiące.
-
-Art. 85.
-
-Grupa może być zlikwidowana w następujących przypadkach:
-
-#.  spadku liczby członków danej Grupy poniższej 15,
-#.  wniosku Walnego Zebrania Członków Grupy w formie uchwały powziętej większością 2/3 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania,
-#.  braku uzasadnienia organizacyjnego lub statutowego do dalszego istnienia Grupy.
-
-Art. 86.
-
-Decyzję o likwidacji Grupy podejmuje w formie uchwały Zarząd Krajowy. Nie podejmuje się decyzji o likwidacji Grupy jeżeli możliwe jest połączenie Grup.
-
-Art. 87.
-
-Na podstawie uchwał Walnych Zebrań zainteresowanych Grup Zarząd Krajowy może podjąć uchwałę o podziale lub o połączeniu Grup.
 
 *Komisja Rewizyjna Grupy*
 
@@ -636,52 +643,6 @@ Tryb i forma działania Komisji Rewizyjnej Grupy określa regulamin przez nią u
 Art. XX-8.
 
 Członkowie Komisji Rewizyjnej Grupy mogą brać udział w posiedzeniach Zarządu Grupy z głosem doradczym.
-
-
-*Koła*
-
-Art. XX-13.
-
-Koła nie posiadają osobowości prawnej.
-
-Art. 88.
-
-Koła powołuje co najmniej 3 członków zwyczajnych Stowarzyszenia, zwanych dalej członkami założycielskimi Koła, którzy określają, czy Koło ma mieć charakter terytorialny czy przedmiotowy.
-
-Art. 89.
-
-Koła terytorialne nie mogą przekraczać granic istniejącej Grupy.
-
-Art. 90.
-
-Koła przedmiotowe są Kołami o zasięgu krajowym.
-
-Art. 91.
-
-Koło powstaje z chwilą zatwierdzenia przez Zarząd Krajowy, lub odpowiedni terytorialnie Zarząd Grupy, na pisemny wniosek jego założycieli. Zarząd Krajowy lub odpowiednio dla Kół terytorialnych Zarząd Grupy wpisuje Koło do prowadzonej ewidencji.
-
-Art. 92.
-
-Powołanie Koła przez odpowiedni terytorialny Zarząd Grupy wymaga akceptacji przez Zarząd Krajowy.
-
-Art. 93.
-
-Zarząd Krajowy lub odpowiednio terytorialnie Zarząd Grupy, powołuje na podstawie rekomendacji członków Koła Prezesa Koła i określa cele oraz regulamin działania Koła.
-
-Art. 94.
-
-W przypadku Kół przedmiotowych członkami Koła mogą zostać osoby nie będące członkami Stowarzyszenia, pod warunkiem, że zobowiązują się do przestrzegania Regulaminu Koła, Statutu i postanowień Władz Stowarzyszenia.
-
-Art. 95.
-
-Koło Stowarzyszenia może zostać zlikwidowane na podstawie:
-
-#.  decyzji Zarządu Krajowego w przypadku nieprzestrzegania regulaminu, Statutu czy postanowień władz krajowych,
-#.  decyzji Zarządu Grupy, odpowiedniej terytorialnie dla Koła o zasięgu terytorialnym, w przypadku nie przestrzegania regulaminu, braku uzasadnienia organizacyjnego lub statutowego do dalszego istnienia Koła.
-
-Art. 96.
-
-Do likwidacji, łączenia i podziału Kół stosuje się odpowiednio przepisy o Grupach.
 
 **Rozdział 6. Majątek i fundusze**
 
