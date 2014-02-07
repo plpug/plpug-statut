@@ -474,7 +474,7 @@ Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy na pisemny wniosek 
 
 Art. XX-14.
 
-Członkiem Grupy może zostać wyłącznie Członek Zwyczajny Stowarzyszenia. Utrata członkowstwa zwyczjnego w Stowarzyszeniu oznacza utratę członkostwa w Grupie.
+Członkiem Grupy może zostać wyłącznie Członek Zwyczajny Stowarzyszenia. Utrata członkowstwa zwyczajnego w Stowarzyszeniu oznacza utratę członkostwa w Grupie.
 
 Art. 68.
 
