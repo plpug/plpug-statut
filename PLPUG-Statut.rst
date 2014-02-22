@@ -51,6 +51,7 @@ Celami Stowarzyszenia są:
 #. Popularyzacja Pythona, jak również związanego z nim oprogramowania.
 #. Reprezentowanie programistów Pythona, ich opinii i potrzeb.
 #. Wspieranie lokalnych grup użytkowników Pythona oraz innych społeczności wykorzystujących ten język programowania.
+#. Współpraca z Fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych
 #. Współpraca z developerami Pythona i przekazywanie sugestii i propozycji użytkowników.
 #. Wspieranie projektów związanych z Pythonem.
 #. Wspieranie rozwoju rynku pracy dla programistów Pythona.
@@ -62,23 +63,19 @@ Sposoby realizacji celów:
 
 #. Organizowanie konferencji PyCon PL, promującej Pythona na terenie Rzeczypospolitej Polskiej.
 #. Organizowanie innych konferencji, warsztatów, konkursów oraz akcji o charakterze edukacyjnym i informacyjnym.
-#. Finansowe i medialne wspieranie lokalnych grup użytkowników Pythona.
-#. Współpraca z Fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia.
 #. Tworzenie wolnego oprogramowania opartego na Pythonie
-#. Tworzenie i utrzymywanie infrastruktury umożliwiającej wymianę informacji pomiędzy programistami i użytkownikami Pythona. 
+#. Tworzenie i utrzymywanie infrastruktury umożliwiającej wymianę informacji pomiędzy programistami i użytkownikami Pythona: 
+
+    * "Forum polskich programistów Pythona",
+    * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode.
+
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
-    * działalności społeczności Pythona,
+    * działalności społeczności Pythona ("Planety polskich programistów Pythona"),
     * aktualizacji Pythona, jak również związanego z nim oprogramowania,
     * patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw,
     * publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
-
-#. Zarządzanie, utrzymywanie i promowanie mediów:
-
-    * "Forum polskich programistów Pythona",
-    * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode,
-    * "Planety polskich programistów Pythona".
-    * serwisu ogłoszeniowego z ofertami pracy dla programistów Pythona.
+    * publikacji ofert pracy dla programistów Pythona.
 
 #. Tworzenie projektów edukacyjnych w Pythonie dla wykorzystania w szkolnictwie.
 #. Organizowanie szkoleń i wykładów z programowania z wykorzystaniem Pythona.
@@ -233,7 +230,7 @@ Kadencja Zarządu Krajowego, Komisji Rewizyjnej, Sądu Koleżeńskiego i Rzeczni
 
 Art. 28.
 
-Ukonstytuowanie się nowo wybranych władz i przejęcie spraw od dotychczasowych władz nastąpić ma w ciągu 30 dni. Do tego czasu działają władze poprzedniej kadencji.
+Ukonstytuowanie się nowo wybranych władz i przejęcie spraw od dotychczasowych władz nastąpić ma w ciągu 30 dni od wybrania. Do tego czasu działają władze poprzedniej kadencji.
 
 Art. 32.
 
@@ -265,10 +262,10 @@ Art. 39.
 Do kompetencji Walnego Zebrania Członków należy:
 
 #.  określenie głównych kierunków działania i rozwoju Stowarzyszenia na okres kadencji,
-#.  podejmowanie uchwał o zmianie Statutu lub rozwiązaniu Stowarzyszenia i przeznaczeniu jej majątku,
-#.  wybór i odwoływanie wszystkie wybieralne władze Stowarzyszenia,
+#.  podejmowanie uchwał o zmianie Statutu lub rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku,
+#.  wybór i odwoływanie wszystkich wybieralnych władz Stowarzyszenia,
 #.  rozpatrywanie sprawozdań wszystkich władz Stowarzyszenia,
-#.  udzielanie Zarządowi Krajowemu absolutorium na wniosek Komisji Rewizyjnej,
+#.  udzielanie członkom Zarządu Krajowego absolutorium na wniosek Komisji Rewizyjnej,
 #.  ustalenie wysokości składek i terminu ich wpłacania,
 #.  uchwalenie rocznego budżetu Stowarzyszenia,
 #.  nadawanie i pozbawienie statusu członka honorowego Stowarzyszenia,
@@ -333,7 +330,7 @@ Do kompetencji Zarządu Krajowego należy:
 #.  składanie sprawozdań ze swojej działalności, a także rocznych sprawozdań finansowych na sprawozdawczo-wyborczym Walnym Zebraniu Członków,
 #.  sprawowanie zarządu nad majątkiem Stowarzyszenia,
 #.  powoływanie i rozwiązywanie komisji i zespołów w celu wykonania zadań statutowych, sprawowanie nad nimi nadzoru i uchwalanie regulaminów ich działalności,
-#.  powoływanie i rozwiązywanie Grup i Kół podległych Zarządowi Krajowemu oraz nadzorowanie i koordynowanie ich działalności,
+#.  powoływanie i rozwiązywanie Grup podległych Zarządowi Krajowemu oraz nadzorowanie i koordynowanie ich działalności,
 #.  podejmowanie uchwał o przyjęciu bądź skreśleniu członków zwyczajnych i członków wspierających Stowarzyszenia z listy członków,
 #.  reprezentowanie Stowarzyszenia wobec organów administracji i sądów,
 #.  podejmowanie innych decyzji przewidzianych w Statucie.
@@ -367,7 +364,7 @@ Do zakresu działań Komisji Rewizyjnej należy:
 #.  kontrolowanie całokształtu działalności Stowarzyszenia,
 #.  występowanie do Zarządu Krajowego z wnioskami wynikającymi z przeprowadzonych kontroli,
 #.  występowanie do Zarządu Krajowego z wnioskami o zwołanie Walnego Zebrania Członków,
-#.  składanie na sprawozdawczo-wyborczym Walnym Zebraniu Członków wniosków o udzielenie lub nieudzielenie absolutorium Zarządowi Krajowemu,
+#.  składanie na sprawozdawczo-wyborczym Walnym Zebraniu Członków wniosków o udzielenie lub nieudzielenie absolutorium członkom Zarządowi Krajowemu,
 #.  składanie sprawozdań ze swojej działalności na sprawozdawczo-wyborczym Walnym Zebraniu Członków.
 
 Art. 51.
@@ -390,7 +387,7 @@ Członkowie Komisji Rewizyjnej mogą brać udział w posiedzeniach Zarządu Kraj
 
 Art. 53.
 
-Sąd Koleżeński jest organem kontroli wewnętrznej Stowarzyszenia.
+Sąd Koleżeński jest organem powołanym do rozstrzygania sporów i konfliktów oraz rozpatrywania spraw naruszenia zasad statutowych i etycznych w Stowarzyszeniu.
 
 Art. XX-53.
 
@@ -423,7 +420,7 @@ Sąd Koleżeński, stwierdzając w orzeczeniu naruszenie Statutu lub uchwał wł
 
 #.  upomnienia,
 #.  nagany,
-#.  zawieszenia w prawach członkowskich na okres od jednego do dwóch lat,
+#.  zawieszenia w prawach członkowskich na okres do dwóch lat,
 #.  trwałego wykluczenia ze Stowarzyszenia.
 
 Art. 59.
@@ -442,7 +439,7 @@ Rzecznik Dyscyplinarny wybierany jest przez Walne Zebranie Członków.
 
 Art. 62.
 
-Rzecznik Dyscyplinarny nie może pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
+Rzecznik Dyscyplinarny nie może pełnić funkcji w innych władzach Stowarzyszenia.
 
 Art. 63.
 
@@ -474,7 +471,7 @@ Grupa powstaje z chwilą zatwierdzenia przez Zarząd Krajowy na pisemny wniosek 
 
 Art. XX-14.
 
-Członkiem Grupy może zostać wyłącznie Członek Zwyczajny Stowarzyszenia. Utrata członkowstwa zwyczajnego w Stowarzyszeniu oznacza utratę członkostwa w Grupie.
+Członkiem Grupy może zostać wyłącznie Członek Zwyczajny Stowarzyszenia poprzez uchwałę Zarządu Grupy. Utrata członkostwa zwyczajnego w Stowarzyszeniu oznacza utratę członkostwa w Grupie.
 
 Art. 68.
 
@@ -529,18 +526,13 @@ Do kompetencji Walnego Zebrania Członków Grupy należy:
 #.  określenie głównych kierunków działania i rozwoju Grupy na okres kadencji,
 #.  wybór i odwoływanie wszystkich wybieralnych władz Grupy,
 #.  rozpatrywanie sprawozdań wszystkich władz Grupy,
-#.  udzielanie ustępującemu Zarządowi Grupy absolutorium,
-#.  uchwalenie rocznego budżetu Grupy,
+#.  udzielanie członkom ustępującemu Zarządowi Grupy absolutorium na wniosek Komisji Rewizyjnej Grupy,
 #.  rozpatrywanie wniosków i postulatów zgłoszonych przez członków Grupy lub jej władze,
 #.  podejmowanie uchwał w sprawach nie zastrzeżonych do kompetencji innych władz Grupy.
 
 Art. 72.
 
-Walne Zebranie Członków Grupy jest zwoływane nie rzadziej niż raz na rok przez Zarząd Grupy.
-
-Art. 74.
-
-Zarząd Grupy powiadamia członków Grupy i Zarząd Krajowy o terminie i porządku obrad Walnego Zebrania Członków Grupy co najmniej na 30 dni przed jego odbyciem.
+Walne Zebranie Członków Grupy jest zwoływane przez Zarząd Grupy co roku jako zebranie sprawozdawcze, a co drugi rok jako zebranie sprawozdawczo-wyborcze. Termin obrad Zarząd Grupy podaje do wiadomości wszystkich członków Grupy oraz Zarządu Krajowego co najmniej 30 dni przed jego odbyciem.
 
 Art. 77.
 
@@ -593,7 +585,7 @@ Do kompetencji Zarządu Grupy należy:
 #.  realizacja zadań określonych przez Walne Zebranie Członków Grupy,
 #.  kierowanie bieżącą działalnością Grupy,
 #.  zwoływanie i organizowanie zebrań Członków Grupy,
-#.  opracowanie i realizowanie rocznych planów pracy i planów finansowych Grupy,
+#.  opracowanie i realizowanie rocznych planów pracy Grupy,
 #.  gospodarowanie majątkiem Stowarzyszenia, pozostawionym do dyspozycji Grupy przez Zarząd Krajowy,
 #.  podejmowanie uchwał dotyczących nadania lub odebrania członkostwa w Grupie,
 #.  podejmowanie innych decyzji dotyczących Grupy wynikających ze Statutu.
