@@ -26,7 +26,7 @@ Realizacje:
 3. Tworzenie i rozwijanie wolnego oprogramowania opartego na Pythonie
 4. Tworzenie i utrzymywanie infrastruktury umożliwiającej wymianę informacji pomiędzy programistami i użytkownikami Pythona. 
     * pl.python.org/forum - Forum polskich programistów Pythona
-    * IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode - kanały komunikacji
+    * IRC "#python-pl" i "#django-pl" mieszczących się w sieci FreeNode - kanały komunikacji
 5. Tworzenie i utrzymywanie portalu informacyjnego m.in. w zakresie:
     * pl.python.org - portal informacyjny o działalności społeczności Pythona, aktualizacji Pythona, jak również związanego z nim oprogramowania, patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw, publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
     * pl.python.org/planeta - Planeta polskich programistów Pythona, stąd przejdziesz na blogi i strony programistów.
