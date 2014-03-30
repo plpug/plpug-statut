@@ -150,7 +150,7 @@ Art. 25.
 Członek wspierający Stowarzyszenie ma prawo:
 
 #.  uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
-#.  uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
+#.  uczestnictwa w realizacji programu działania Stowarzyszenia,
 #.  korzystania z pomocy Stowarzyszenia w działaniach na rzecz celów statutowych Stowarzyszenia,
 #.  wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
