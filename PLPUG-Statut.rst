@@ -565,7 +565,6 @@ Art. 78.
 W skład Zarządu Grupy wchodzi od 4 do 6 osób, w tym:
 
 #.  Prezes,
-#.  Wiceprezes,
 #.  Sekretarz,
 #.  Skarbnik.
 
@@ -604,7 +603,7 @@ Zarząd Grupy jest uprawniony do składania oświadczeń woli dotyczących praw 
 
 Art. XX-2.
 
-W imieniu Grupy dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby z Zarządu Grupy lub Zarządu Krajowego, przy czym przynajmniej jedną z tych osób musi być Prezes Grupy, Wiceprezes Grupy albo Skarbnik Grupy.
+W imieniu Grupy dokumenty związane ze zobowiązaniami finansowymi podpisują dwie osoby z Zarządu Grupy przy czym przynajmniej jedną z tych osób musi być Prezes Grupy albo Skarbnik Grupy.
 
 Art. 83.
 
@@ -671,7 +670,7 @@ Majątek Stowarzyszenia powstaje z:
 #.  wpływów z działalności własnej,
 #.  wpływów z ofiarności publicznej,
 #.  wpływów ze zbiórek publicznych,
-#.  wpływów z loterii, aukcji i sponsoringu,
+#.  wpływów z loterii oraz aukcji,
 #.  dochody z działalności gospodarczej prowadzonej przez Stowarzyszenie zgodnie z obowiązującymi przepisami prawa.
 
 Art. 99.
