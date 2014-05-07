@@ -362,7 +362,7 @@ Art. XX-47.
 W skład Komisji Rewizyjnej wchodzi od 3 do 5 członków, w tym:
 
 #.  Przewodniczący,
-#.  Wiceprzewodniczy,
+#.  Wiceprzewodniczący,
 #.  Sekretarz.
 
 Art. 49.
