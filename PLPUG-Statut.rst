@@ -1,4 +1,4 @@
-**Polska Grupa Użytkowników Pythona**
+**Stowarzyszenie Polska Grupa Użytkowników Pythona**
 
 **Statut Stowarzyszenia**
 
@@ -15,7 +15,7 @@
 
 Art. 1.
 
-Stowarzyszenie nosi nazwę "Polska Grupa Użytkowników Pythona", w skrócie "PLPUG", w języku angielskim "Polish Python User Group", w dalszych postanowieniach zwane Stowarzyszeniem.
+Stowarzyszenie nosi nazwę Stowarzyszenie Polska Grupa Użytkowników Pythona, w skrócie "PLPUG", w języku angielskim "Polish Python User Group", w dalszych postanowieniach zwane Stowarzyszeniem.
 
 Art. 2.
 
@@ -66,19 +66,23 @@ Sposoby realizacji celów:
 #. Tworzenie wolnego oprogramowania opartego na Pythonie
 #. Tworzenie i utrzymywanie infrastruktury umożliwiającej wymianę informacji pomiędzy programistami i użytkownikami Pythona: 
 
-    * "Forum polskich programistów Pythona",
-    * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode.
+    * "Forum polskich programistów Pythona".
+
+#. Utrzymywanie kanałów IRC mieszczących się w sieci FreeNode umożliwiających wymianę informacji pomiędzy programistami i użytkownikami Pythona (nazwy kanałów):
+
+    * "#python.pl",
+    * "#django.pl".
 
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
-    * działalności społeczności Pythona ("Planety polskich programistów Pythona"),
+    * działalności społeczności Pythona ("Planeta polskich programistów Pythona"),
     * aktualizacji Pythona, jak również związanego z nim oprogramowania,
     * patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw,
     * publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
     * publikacji ofert pracy dla programistów Pythona.
 
 #. Tworzenie projektów edukacyjnych w Pythonie dla wykorzystania w szkolnictwie.
-#. Organizowanie szkoleń i wykładów z programowania z wykorzystaniem Pythona.
+#. Organizowanie szkoleń i wykładów z programowania w Pythonie.
 
 **Rozdział 3. Członkowie, ich prawa i obowiązki**
 
@@ -116,7 +120,7 @@ Art. 22.
 
 Członek zwyczajny Stowarzyszenia ma obowiązek:
 
-#.  aktywnego udziału w działalności Stowarzyszenia i realizacji jego celów,
+#.  udziału w działalności Stowarzyszenia i realizacji jego celów,
 #.  przestrzegania Statutu i uchwał władz Stowarzyszenia,
 #.  regularnego opłacania składek.
 
@@ -128,7 +132,7 @@ Członkostwo zwyczajne Stowarzyszenia ustaje na skutek:
 #.  dobrowolnego wystąpienia zgłoszonego na piśmie Zarządowi Krajowemu lub Zarządowi właściwej Grupy,
 #.  prawomocnego orzeczenia Sądu Koleżeńskiego o wykluczeniu,
 #.  utraty praw publicznych,
-#.  skreślenia uchwałą podjętą bezpośrednio przez Zarząd Krajowy lub uchwałą Zarządu właściwej Grupy w przypadku półrocznych zaległości w opłacaniu składek członkowskich lub na skutek niewywiązywania się z przyjętych zobowiązań,
+#.  skreślenia uchwałą podjętą bezpośrednio przez Zarząd Krajowy w przypadku półrocznych zaległości w opłacaniu składek członkowskich lub na skutek niewywiązywania się z przyjętych zobowiązań,
 #.  pełnej utraty zdolności do czynności prawnych,
 #.  likwidacji Stowarzyszenia.
 
@@ -200,9 +204,13 @@ Art. 16.
 
 Członek honorowy Stowarzyszenia zwolniony jest z obowiązku uiszczania składek członkowskich.
 
+Art. XX-44.
+
+Członek honorowy może zrzec się statusu członka honorowego poprzez poinformowanie o tym Zarządu Krajowego w dowolnym momencie lub poinformowania ogółu na Walnym Zebraniu Członków.
+
 Art. 19.
 
-Statusu członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu Krajowego w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień Statutu. Członek honorowy może zrzec się statusu członka honorowego poprzez poinformowanie o tym Zarządu Krajowego w dowolnym momencie lub poinformowania ogółu na Walnym Zebraniu Członków.
+Statusu członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu Krajowego w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień Statutu.
 
 Art. 20.
 
@@ -230,7 +238,7 @@ Kadencja Zarządu Krajowego, Komisji Rewizyjnej, Sądu Koleżeńskiego i Rzeczni
 
 Art. 28.
 
-Ukonstytuowanie się nowo wybranych władz i przejęcie spraw od dotychczasowych władz nastąpić ma w ciągu 30 dni od wybrania. Do tego czasu działają władze poprzedniej kadencji.
+Ukonstytuowanie się nowych władz nastąpić ma w ciągu 7 dni od daty wyboru, a przejęcie spraw w ciągu 30 dni od daty wyboru. Do czasu ukonstytuowania się nowych władz, działają władze ówczesnej kadencji.
 
 Art. 32.
 
@@ -278,13 +286,13 @@ Walne Zebranie Członków może być zwyczajne lub nadzwyczajne.
 
 Art. 36.
 
-Walne Zebranie Członków zwyczajne jest zwoływane przez Zarząd Krajowy w siedzibie Stowarzyszenia lub innym dogodnym miejscu co roku jako zebranie sprawozdawcze, a co drugi rok jako zebranie sprawozdawczo-wyborcze. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 30 dni przed pierwszym terminem zebrania.
+Walne Zebranie Członków zwyczajne jest zwoływane przez Zarząd Krajowy w siedzibie Stowarzyszenia lub innym dogodnym miejscu co roku jako zebranie sprawozdawcze, a co drugi rok jako zebranie sprawozdawczo-wyborcze. Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 30 dni przed terminem zebrania.
 
 Art. 37.
 
 Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie Stowarzyszenia lub innym dogodnym miejscu. Jest zwoływane przez Zarząd Krajowy z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
 
-Pierwszy termin nadzwyczajnego Walnego Zebrania Członków powinien być określony nie później niż 60 dni od daty wpływu wniosku do Zarządu Krajowego.
+Termin nadzwyczajnego Walnego Zebrania Członków powinien być określony nie później niż 60 dni od daty wpływu wniosku do Zarządu Krajowego.
 
 Wniosek powinien zawierać propozycje terminów oraz porządku obrad.
 
@@ -671,11 +679,6 @@ Majątek Stowarzyszenia powstaje z:
 #.  wpływów z ofiarności publicznej,
 #.  wpływów ze zbiórek publicznych,
 #.  wpływów z loterii oraz aukcji,
-#.  dochody z działalności gospodarczej prowadzonej przez Stowarzyszenie zgodnie z obowiązującymi przepisami prawa.
-
-Art. 99.
-
-Dochody z działalności gospodarczej służą realizacji celów Stowarzyszenia i nie mogą być przeznaczone do podziału między jej członków.
 
 Art. 100.
 
