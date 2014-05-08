@@ -570,7 +570,7 @@ Zarząd Grupy jest powoływany do kierowania działalnością Grupy, a także re
 
 Art. 78.
 
-W skład Zarządu Grupy wchodzi od 4 do 6 osób, w tym:
+W skład Zarządu Grupy wchodzi od 3 do 5 osób, w tym:
 
 #.  Prezes,
 #.  Sekretarz,
