@@ -479,6 +479,7 @@ Majątek Stowarzyszenia powstaje z:
 
 #. składek członkowskich,
 #. dochodów z nieruchomości i ruchomości stanowiących własność lub będących w użytkowaniu Stowarzyszenia,
+#. dochodów z majątku, odsetek oraz kapitału,
 #. dotacji, kontraktów państwowych i subwencji,
 #. darowizn, zapisów i spadków,
 #. wpływów z ofiarności publicznej,
@@ -487,7 +488,7 @@ Majątek Stowarzyszenia powstaje z:
 
 Art. 73.
 
-Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na to konto przelane.
+Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, niezwłocznie na to konto przelane.
 
 Art. 74.
 
@@ -506,6 +507,13 @@ Art. 77.
 W imieniu Stowarzyszenia oświadczenia woli, w tym w sprawach finansowych, podpisują dwie osoby z Zarządu, przy czym przynajmniej jedną z tych osób musi być Prezes, Wiceprezes albo Skarbnik Stowarzyszenia.
 
 Art. 78.
+
+Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń woli, w szczególności w sprawach majątkowych:
+
+#. upoważnionych jest dowolnych dwóch członków Zarządu działających łącznie,
+#. upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 1024 PLN.
+
+Art. 79.
 
 Zabronione jest:
 
