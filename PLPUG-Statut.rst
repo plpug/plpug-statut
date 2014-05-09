@@ -60,9 +60,9 @@ Sposoby realizacji celów:
 
 #. Organizowanie konferencji PyCon PL, promującej Pythona na terenie Rzeczypospolitej Polskiej,
 #. Organizowanie innych konferencji, warsztatów, konkursów oraz akcji służących realizacji celów statutowych Stowarzyszenia,
-#. Finansowe i medialne wspieranie lokalnych grup użytkowników, kół naukowych i innych tego typu środowisk wykorzystujących Pythona,
+#. Wspieranie lokalnych grup użytkowników, kół naukowych i innych tego typu środowisk wykorzystujących Pythona,
 #. Współpraca z Fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia,
-#. Tworzenie wolnego oprogramowania wspierającego działanie Stowarzyszenia,
+#. Tworzenie wolnego i otwartego oprogramowania,
 #. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia,
 #. Prowadzenie portalu informacyjnego m.in. w zakresie:
 
@@ -151,7 +151,7 @@ Art. 18.
 Członek wspierający Stowarzyszenie ma prawo:
 
 #. uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
-#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
+#. uczestnictwa w realizacji programu działania Stowarzyszenia,
 #. korzystania z pomocy Stowarzyszenia w działaniach na rzecz celów statutowych Stowarzyszenia,
 #. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
@@ -479,11 +479,10 @@ Art. 72.
 
 Majątek Stowarzyszenia powstaje z:
 
-#. składek członkowskich
+#. składek członkowskich,
 #. dochodów z nieruchomości i ruchomości stanowiących własność lub będących w użytkowaniu Stowarzyszenia,
 #. dotacji, kontraktów państwowych i subwencji,
 #. darowizn, zapisów i spadków,
-#. wpływów z działalności własnej,
 #. wpływów z ofiarności publicznej,
 #. wpływów ze zbiórek publicznych,
 #. wpływów z loterii oraz aukcji.
