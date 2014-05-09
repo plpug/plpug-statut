@@ -60,7 +60,7 @@ Sposoby realizacji celów:
 
 #. Organizowanie konferencji PyCon PL, promującej Pythona na terenie Rzeczypospolitej Polskiej,
 #. Organizowanie innych konferencji, warsztatów, konkursów oraz akcji służących realizacji celów statutowych Stowarzyszenia,
-#. Finansowe i medialne wspieranie lokalnych grup użytkowników, kół naukowych i innych  tego typu środowisk wykorzystujących Pythona,
+#. Finansowe i medialne wspieranie lokalnych grup użytkowników, kół naukowych i innych tego typu środowisk wykorzystujących Pythona,
 #. Współpraca z Fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia,
 #. Tworzenie wolnego oprogramowania wspierającego działanie Stowarzyszenia,
 #. Utrzymywanie infrastruktury stymulującej rozwój Stowarzyszenia,
@@ -71,15 +71,15 @@ Sposoby realizacji celów:
     * patronatu medialnego konferencji, warsztatów, szkoleń i innych inicjatyw,
     * publikacji artykułów i poradników użytkownika, a także recenzji książek poświęconych tematyce Pythona.
 
-#. Zarządzanie i promowanie:
+#. Zarządzanie:
 
-    * "Forum polskich programistów Pythona",
-    * kanałów IRC "#python.pl" i "#django.pl" mieszczących się w sieci FreeNode,
-    * "Planety polskich programistów Pythona".
-    * serwisu ogłoszeniowego z ofertami pracy dla programistów Pythona.
+    * projektem "Forum polskich programistów Pythona",
+    * projektem "Planeta polskich programistów Pythona",
+    * kanałami IRC "#python.pl" i "#django.pl" mieszczącymi się w sieci FreeNode, umożliwiającymi wymianę informacji pomiędzy członkami społeczności Pythona,
+    * serwisem ogłoszeniowym z ofertami pracy dla programistów Pythona.
 
-#. Tworzenie projektów edukacyjnych w Pythonie dla wykorzystania w szkolnictwie,
-#. Organizowanie szkoleń i wykładów z programowania z wykorzystaniem Pythona.
+#. Tworzenie projektów i programów edukacyjnych związanych z Pythonem dla wykorzystania w szkolnictwie,
+#. Organizowanie szkoleń i wykładów z programowania w Pythonie.
 
 **Rozdział 3. Członkowie, ich prawa i obowiązki**
 
@@ -93,38 +93,35 @@ Członkowie Stowarzyszenia dzielą się na:
 
 Art. 11.
 
+Przyjęcie na członka zwyczajnego Stowarzyszenia następuje bezpośrednio w drodze uchwały zatwierdzonej przez Zarząd.
+
+Art. 12.
+
 Członkiem zwyczajnym Stowarzyszenia może zostać osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która:
 
 #. przekazała Zarządowi wypełnioną deklarację członkowską w formie pisemnej albo elektronicznej,
 #. uzyskała zgodę Zarządu na przyjęcie w poczet członków,
 #. opłaciła składkę członkowską.
 
-Art. 12.
-
-Członkiem wspierającym Stowarzyszenia może zostać osoba prawna albo osoba fizyczna posiadająca pełną zdolność do czynności prawnych, która:
-
-#. uzyskała zgodę Zarządu na przyjęcie w poczet członków,
-#. zadeklarowała na cele Stowarzyszenia pomoc finansową lub rzeczową.
-
-Osoba prawna działa w Stowarzyszeniu przez swojego przedstawiciela. Reprezentowanie osoby prawnej wynika z jej umowy albo sposobu reprezentacji ujawnionego w odpowiednim rejestrze.
-
 Art. 13.
 
-Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która wniosła wybitny wkład w rozwój Pythona bądź jego społeczności lub w szczególny sposób zasłużyła się Stowarzyszeniu.
+Członek zwyczajny Stowarzyszenia ma prawo:
+
+#. uczestnictwa z głosem stanowiącym w Walnych Zebraniach Członków,
+#. wybierania i bycia wybieranym do władz Stowarzyszenia,
+#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
+#. korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
+#. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
 Art. 14.
 
-Przyjęcie na członka zwyczajnego albo wspierającego Stowarzyszenia następuje bezpośrednio w drodze uchwały zatwierdzonej przez Zarząd.
+Członek zwyczajny Stowarzyszenia ma obowiązek:
+
+#. udziału w działalności Stowarzyszenia i realizacji jego celów,
+#. przestrzegania Statutu, regulaminów i uchwał władz Stowarzyszenia.
+#. regularnego opłacania składek.
 
 Art. 15.
-
-Status członka honorowego nadaje Walne Zebranie Członków. Otrzymanie statusu członka honorowego nie powoduje utraty członkostwa zwyczajnego albo członkostwa wspierającego jeżeli takowe posiada.
-
-Art. 16.
-
-Członek honorowy Stowarzyszenia zwolniony jest z obowiązku uiszczania składek członkowskich.
-
-Art. 17.
 
 Członkostwo zwyczajne Stowarzyszenia ustaje na skutek:
 
@@ -136,7 +133,36 @@ Członkostwo zwyczajne Stowarzyszenia ustaje na skutek:
 #. pełnej utraty zdolności do czynności prawnych,
 #. likwidacji Stowarzyszenia.
 
+Art. 16.
+
+Przyjęcie na członka wspierającego Stowarzyszenia następuje bezpośrednio w drodze uchwały zatwierdzonej przez Zarząd.
+
+Art. 17.
+
+Członkiem wspierającym Stowarzyszenia może zostać osoba prawna albo osoba fizyczna posiadająca pełną zdolność do czynności prawnych, która:
+
+#. uzyskała zgodę Zarządu na przyjęcie w poczet członków,
+#. zadeklarowała na cele Stowarzyszenia pomoc finansową lub rzeczową.
+
+Osoba prawna działa w Stowarzyszeniu przez swojego przedstawiciela. Reprezentowanie osoby prawnej wynika z jej umowy albo sposobu reprezentacji ujawnionego w odpowiednim rejestrze.
+
 Art. 18.
+
+Członek wspierający Stowarzyszenie ma prawo:
+
+#. uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
+#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
+#. korzystania z pomocy Stowarzyszenia w działaniach na rzecz celów statutowych Stowarzyszenia,
+#. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
+
+Art. 19.
+
+Członek wspierający Stowarzyszenie ma obowiązek:
+
+#. wywiązywania się z zadeklarowanych świadczeń,
+#. przestrzegania Statutu, regulaminów i uchwał władz Stowarzyszenia.
+
+Art. 20.
 
 Członkostwo wspierające Stowarzyszenia wygasa na skutek:
 
@@ -148,32 +174,21 @@ Członkostwo wspierające Stowarzyszenia wygasa na skutek:
 #. ogłoszenia upadłości osoby prawnej lub utraty pełnej zdolności do czynności prawnych,
 #. likwidacji Stowarzyszenia.
 
-Art. 19.
-
-Statusu członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień Statutu.
-
-Art. 20.
-
-Od uchwały Zarządu o odmowie przyjęcia na członka lub uchwały o skreśleniu oraz od orzeczenia Sądu Koleżeńskiego o wykluczeniu, służy zainteresowanemu prawo odwołania do Walnego Zebrania Członków w ciągu 30 dni kalendarzowych od daty powiadomienia o uchwale lub orzeczeniu.
-
 Art. 21.
 
-Walne Zebranie Członków rozpatruje odwołanie na najbliższym posiedzeniu. Od dnia doręczenia decyzji o wykluczeniu ze Stowarzyszenia członek Stowarzyszenia jest zawieszony w prawach członkowskich.
+Status członka honorowego nadaje Walne Zebranie Członków. Otrzymanie statusu członka honorowego nie powoduje utraty członkostwa zwyczajnego albo członkostwa wspierającego jeżeli takowe posiada.
 
 Art. 22.
 
-Członek zwyczajny Stowarzyszenia ma obowiązek:
-
-#. udziału w działalności Stowarzyszenia i realizacji jego celów,
-#. przestrzegania Statutu, regulaminów i uchwał władz Stowarzyszenia.
-#. regularnego opłacania składek.
+Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która wniosła wybitny wkład w rozwój Pythona bądź jego społeczności lub w szczególny sposób zasłużyła się Stowarzyszeniu.
 
 Art. 23.
 
-Członek wspierający Stowarzyszenie ma obowiązek:
+Członek honorowy Stowarzyszenia ma prawo:
 
-#. wywiązywania się z zadeklarowanych świadczeń,
-#. przestrzegania Statutu, regulaminów i uchwał władz Stowarzyszenia.
+#. uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
+#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
+#. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
 Art. 24.
 
@@ -183,34 +198,27 @@ Członek honorowy Stowarzyszenia ma obowiązek:
 
 Art. 25.
 
-Członek zwyczajny Stowarzyszenia ma prawo:
-
-#. uczestnictwa z głosem stanowiącym w Walnych Zebraniach Członków,
-#. wybierania i bycia wybieranym do władz Stowarzyszenia,
-#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
-#. korzystania z dorobku, majątku i wszelkich form działalności Stowarzyszenia,
-#. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
+Członek honorowy Stowarzyszenia zwolniony jest z obowiązku uiszczania składek członkowskich.
 
 Art. 26.
 
-Członek wspierający Stowarzyszenie ma prawo:
-
-#. uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
-#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
-#. korzystania z pomocy Stowarzyszenia w działaniach na rzecz celów statutowych Stowarzyszenia,
-#. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
+Członek honorowy może zrzec się statusu członka honorowego poprzez pisemne poinformowanie Zarządu albo podczas Walnego Zebrania Członków.
 
 Art. 27.
 
-Członek honorowy Stowarzyszenia ma prawo:
-
-#. uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
-#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
-#. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
-
-Rozdział 4. Władze Stowarzyszenia
+Statusu członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień Statutu.
 
 Art. 28.
+
+Od uchwały Zarządu o odmowie przyjęcia na członka, uchwały o skreśleniu albo orzeczenia Sądu Koleżeńskiego o wykluczeniu, służy zainteresowanemu prawo odwołania do Walnego Zebrania Członków w ciągu 30 dni kalendarzowych od daty powiadomienia o uchwale albo orzeczeniu.
+
+Art. 29.
+
+Walne Zebranie Członków rozpatruje odwołanie na najbliższym posiedzeniu. Od dnia doręczenia decyzji o wykluczeniu ze Stowarzyszenia członek Stowarzyszenia jest zawieszony w prawach członkowskich.
+
+**Rozdział 4. Władze Stowarzyszenia**
+
+Art. 30.
 
 Władzami Stowarzyszenia są:
 
@@ -220,35 +228,33 @@ Władzami Stowarzyszenia są:
 #. Sąd Koleżeński,
 #. Rzecznik Dyscyplinarny.
 
-Art. 29.
+Art. 31.
 
 Kadencja Zarządu, Komisji Rewizyjnej, Sądu Koleżeńskiego i Rzecznika Dyscyplinarnego trwa dwa lata a ich wybór odbywa się w głosowaniu jawnym z nieograniczonej liczby kandydatów.
 
-Art. 30.
+Art. 32.
 
 Ukonstytuowanie się nowych władz nastąpić ma w ciągu 7 dni kalendarzowych od daty wyboru, a przejęcie spraw w ciągu 30 dni kalendarzowych od daty wyboru.
 
 Do czasu ukonstytuowania się nowych władz, działają władze ówczesnej kadencji.
 
-Art. 31.
-
-W przypadku ustąpienia lub odwołania członka władz Stowarzyszenia przed upływem kadencji, skład osobowy tych władz jest uzupełniany spośród niewybranych kandydatów w kolejności uzyskanych głosów. Liczba członków dokooptowanych nie może przekroczyć połowy liczby członków pochodzących z wyboru. W przypadku konieczności dalszego uzupełniania niezbędne jest przeprowadzenie Walnego Zebrania Członków.
-
-Art. 32.
-
-W przypadku ustąpienia Prezesa przed upływem kadencji, Zarząd powierza obowiązki Prezesa Wiceprezesowi Zarządu. Najbliższe Walne Zebranie Członków dokonuje wyboru nowego Prezesa na okres do końca kadencji władz.
-
 Art. 33.
 
-W przypadku odwołania Prezesa przed upływem kadencji, Walne Zebranie Członków dokonuje wyboru nowego Prezesa na okres do końca kadencji władz.
+O ile dalsze postanowienia Statutu nie stanowią inaczej, uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum. W przypadku równej liczby głosów decyduje głos przewodniczącego obrad.
 
 Art. 34.
 
-Uchwały Walnego Zebrania Członków Stowarzyszenia zapadają w głosowaniu jawnym zwykłą większością głosów, przy obecności co najmniej połowy członków uprawnionych do głosowania w pierwszym terminie, w drugim terminie bez względu na liczbę obecnych członków. W przypadku równej liczby głosów decyduje głos przewodniczącego obrad.
-
-Drugi termin zostanie wyznaczony w tym samym dniu, 30 minut później niż pierwszy termin.
+W przypadku ustąpienia lub odwołania członka władz Stowarzyszenia przed upływem kadencji, skład osobowy tych władz jest uzupełniany spośród niewybranych kandydatów w kolejności uzyskanych głosów. Liczba członków dokooptowanych nie może przekroczyć połowy liczby członków pochodzących z wyboru. W przypadku konieczności dalszego uzupełniania niezbędne jest przeprowadzenie Walnego Zebrania Członków.
 
 Art. 35.
+
+W przypadku ustąpienia Prezesa przed upływem kadencji, Zarząd powierza obowiązki Prezesa Wiceprezesowi Zarządu. Najbliższe Walne Zebranie Członków dokonuje wyboru nowego Prezesa na okres do końca kadencji władz.
+
+Art. 36.
+
+W przypadku odwołania Prezesa przed upływem kadencji, Walne Zebranie Członków dokonuje wyboru nowego Prezesa na okres do końca kadencji władz.
+
+Art. 37.
 
 Członkami Zarządu oraz Komisji Rewizyjnej nie mogą być osoby skazane prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe.
 
@@ -258,38 +264,14 @@ Członkami Komisji Rewizyjnej nie mogą być osoby skazane prawomocnym wyrokiem 
 
 *Walne Zebranie Członków*
 
-Art. 36.
+Art. 38.
 
 Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia. W Walnym Zebraniu Członków uczestniczą:
 
 #. z głosem stanowiącym - członkowie zwyczajni,
 #. z głosem doradczym - członkowie wspierający i honorowi oraz zaproszeni goście.
 
-Art. 37.
-
-Walne Zebranie Członków może być zwyczajne lub nadzwyczajne.
-
-Art. 38.
-
-Walne Zebranie Członków zwyczajne jest zwoływane przez Zarząd w siedzibie Stowarzyszenia lub innym dogodnym miejscu.
-
-Walne Zebranie Członków zwyczajne jest zwoływane co roku jako zebranie sprawozdawcze, a co drugi rok jako spotkanie sprawozdawczo-wyborcze.
-
-Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 30 dni kalendarzowych przed pierwszym terminem zebrania.
-
 Art. 39.
-
-Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie Stowarzyszenia lub innym dogodnym miejscu. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
-
-Pierwszy termin Walnego Zebrania Członków nadzwyczajnego powinien być określony nie później niż 60 dni kalendarzowych od daty wpływu wniosku do Zarządu.
-
-Wniosek powinien zawierać propozycje terminów oraz porządku obrad.
-
-Art. 40.
-
-Walne Zebranie Członków nadzwyczajne obraduje nad sprawami, dla których zostało zwołane, według uchwalonego przez siebie regulaminu obrad.
-
-Art. 41.
 
 Do kompetencji Walnego Zebrania Członków należy:
 
@@ -303,36 +285,56 @@ Do kompetencji Walnego Zebrania Członków należy:
 #. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia lub jego władze,
 #. podejmowanie uchwał w sprawach niezastrzeżonych do kompetencji innych władz Stowarzyszenia.
 
+Art. 40.
+
+Walne Zebranie Członków może być zwyczajne lub nadzwyczajne.
+
+Art. 41.
+
+Walne Zebranie Członków zwyczajne jest zwoływane przez Zarząd w siedzibie Stowarzyszenia lub innym dogodnym miejscu.
+
+Walne Zebranie Członków zwyczajne jest zwoływane co roku jako zebranie sprawozdawcze, a co drugi rok jako spotkanie sprawozdawczo-wyborcze.
+
+Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 30 dni kalendarzowych przed terminem zebrania.
+
 Art. 42.
 
-W sprawach zmian Statutu, odwołania przed upływem kadencji Prezesa lub członków władz Stowarzyszenia oraz pozbawienia statusu członka honorowego Walne Zebranie Członków podejmuje decyzje zgodnie z artykułem 34, ale wymaganą większością 2/3 głosów.
+Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie Stowarzyszenia lub innym dogodnym miejscu. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
+
+Termin nadzwyczajnego Walnego Zebrania Członków powinien być określony nie później niż 60 dni kalendarzowych od daty wpływu wniosku do Zarządu.
+
+Wniosek powinien zawierać propozycje terminów oraz porządku obrad.
 
 Art. 43.
 
-W sprawie rozwiązania Stowarzyszenia Walne Zebranie Członków podejmuje decyzje zgodnie z artykułem 34, ale wymaganą większością 3/4 głosów.
-
-*Zarząd*
+Walne Zebranie Członków nadzwyczajne obraduje nad sprawami, dla których zostało zwołane, według uchwalonego przez siebie regulaminu obrad.
 
 Art. 44.
 
-W skład Zarządu wchodzi od 4 do 6 osób, w tym:
+Walne Zebranie Członków podejmuje większością 2/3 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania w sprawie:
+
+#. zmian Statutu,
+#. odwołania przed upływem kadencji Prezesa lub członków władz Stowarzyszenia,
+#. pozbawienia statusu członka honorowego.
+
+Art. 45.
+
+Rozwiązanie Stowarzyszenia może nastąpić na mocy uchwały Walnego Zebrania Członków podjętej większością 3/4 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania.
+
+*Zarząd*
+
+Art. 46.
+
+Zarząd jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie wobec organów administracyjnych i sądów.
+
+Art. 47.
+
+W skład Zarządu wchodzi od 4 do 7 osób, w tym:
 
 #. Prezes,
 #. Wiceprezes,
 #. Sekretarz,
 #. Skarbnik.
-
-Art. 45.
-
-Zarząd jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie wobec organów administracyjnych i sądów.
-
-Art. 46.
-
-Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenie Zarządu zwołuje Prezes lub dwóch członków Zarządu działających łącznie.
-
-Art. 47.
-
-Zarząd podejmuje uchwały zwykłą większością głosów tylko w obecności większości swojego składu. W sytuacji równego rozłożenia głosów decyduje głos Prezesa, a pod jego nieobecność głos Wiceprezesa.
 
 Art. 48.
 
@@ -349,21 +351,29 @@ Do kompetencji Zarządu należy:
 #. reprezentowanie Stowarzyszenia wobec organów administracji i sądów,
 #. podejmowanie innych decyzji przewidzianych w Statucie.
 
-*Komisja Rewizyjna*
-
 Art. 49.
 
-Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia i w jej skład wchodzi od 3 do 5 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
+Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 6 miesięcy. Posiedzenie Zarządu zwołuje Prezes lub dwóch członków Zarządu działających łącznie.
+
+Art. 50.
+
+Zarząd podejmuje uchwały zwykłą większością głosów tylko w obecności większości swojego składu. W sytuacji równego rozłożenia głosów decyduje głos Prezesa, a pod jego nieobecność głos Wiceprezesa.
+
+*Komisja Rewizyjna*
+
+Art. 51.
+
+Komisja Rewizyjna jest organem kontroli wewnętrznej Stowarzyszenia.
+
+Art. 52.
+
+W skład Komisji Rewizyjnej wchodzi od 3 do 5 członków, w tym:
 
 #. Przewodniczącego,
 #. Wiceprzewodniczącego,
 #. Sekretarza.
 
-Art. 50.
-
-Członkowie Komisji Rewizyjnej nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
-
-Art. 51.
+Art. 53.
 
 Do zakresu działań Komisji Rewizyjnej należy:
 
@@ -373,33 +383,37 @@ Do zakresu działań Komisji Rewizyjnej należy:
 #. składanie na sprawozdawczo-wyborczym Walnym Zebraniu Członków wniosków o udzielenie lub nieudzielenie absolutorium Zarządowi,
 #. składanie sprawozdań ze swojej działalności na sprawozdawczo-wyborczym Walnym Zebraniu Członków.
 
-Art. 52.
-
-Komisja Rewizyjna ma prawo żądania od członków i przedstawicieli władz Stowarzyszenia wszystkich szczebli składania pisemnych bądź ustnych wyjaśnień dotyczących kontrolowanych spraw.
-
-Art. 53.
+Art. 54.
 
 Tryb i forma działania Komisji Rewizyjnej określa regulamin przez nią uchwalony.
 
-Art. 54.
+Art. 55.
 
 Członkowie Komisji Rewizyjnej mogą brać udział w posiedzeniach Zarządu z głosem doradczym.
 
+Art. 56.
+
+Komisja Rewizyjna ma prawo żądania od członków i przedstawicieli władz Stowarzyszenia wszystkich szczebli składania pisemnych bądź ustnych wyjaśnień dotyczących kontrolowanych spraw.
+
+Art. 57.
+
+Członkowie Komisji Rewizyjnej nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
+
 *Sąd Koleżeński*
 
-Art. 55.
+Art. 58.
 
-W skład Sądu Koleżeńskiego wchodzi od 3 do 7 członków, którzy na pierwszym posiedzeniu wybierają ze swojego grona:
+Sąd Koleżeński jest organem powołanym do rozstrzygania sporów i konfliktów oraz rozpatrywania spraw naruszenia zasad statutowych i etycznych w Stowarzyszeniu.
+
+Art. 59.
+
+W skład Sądu Koleżeńskiego wchodzi od 3 do 7 członków, w tym:
 
 #. Przewodniczącego,
 #. Wiceprzewodniczącego,
 #. Sekretarza.
 
-Art. 56.
-
-Członkowie Sądu Koleżeńskiego nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
-
-Art. 57.
+Art. 60.
 
 Do zakresu działań Sądu Koleżeńskiego należy:
 
@@ -408,15 +422,15 @@ Do zakresu działań Sądu Koleżeńskiego należy:
 #. rozpatrywanie spraw związanych z nieprzestrzeganiem Statutu i uchwał władz Stowarzyszenia lub działaniem na szkodę Stowarzyszenia,
 #. składanie sprawozdań ze swojej działalności Walnemu Zebraniu Członków.
 
-Art. 58.
+Art. 61.
 
 Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub wniosek zainteresowanych stron trzecich. Tryb i formy działania Sądu Koleżeńskiego określa regulamin przez nią uchwalony.
 
-Art. 59.
+Art. 62.
 
 Na wniosek Rzecznika Dyscyplinarnego Sąd Koleżeński może orzec wobec członka władz Stowarzyszenia o czasowym zawieszeniu go w pełnieniu funkcji do czasu ostatecznego rozstrzygnięcia sprawy, w której Rzecznik Dyscyplinarny prowadzi postępowanie.
 
-Art. 60.
+Art. 63.
 
 Sąd Koleżeński, stwierdzając w orzeczeniu naruszenie Statutu lub uchwał władz Stowarzyszenia, może orzec karę:
 
@@ -425,39 +439,43 @@ Sąd Koleżeński, stwierdzając w orzeczeniu naruszenie Statutu lub uchwał wł
 #. zawieszenia w prawach członkowskich na okres od jednego do dwóch lat,
 #. trwałego wykluczenia ze Stowarzyszenia.
 
-Art. 61.
+Art. 64.
 
 Od orzeczenia Sądu Koleżeńskiego służy stronom prawo odwołania do Walnego Zebrania Członków. Odwołanie wnosi się w terminie 30 dni kalendarzowych od otrzymania orzeczenia Sądu Koleżeńskiego za pośrednictwem Zarządu. Odwołanie rozpatrywane jest na najbliższym zebraniu.
 
-Art. 62.
+Art. 65.
 
 Przewodniczący Sądu Koleżeńskiego ma prawo uczestniczenia w posiedzeniach Zarządu i Komisji Rewizyjnej z głosem doradczym.
 
-*Rzecznik Dyscyplinarny*
-
-Art. 63.
-
-Rzecznik Dyscyplinarny wybierany jest przez Walne Zebranie Członków.
-
-Art. 64.
-
-Rzecznik Dyscyplinarny nie może pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
-
-Art. 65.
-
-Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania dyscyplinarnego w przypadku uzyskania informacji o naruszeniu przez członka Stowarzyszenia postanowień Statutu lub uchwał władz Stowarzyszenia oraz kierowanie spraw do Sądu Koleżeńskiego.
-
 Art. 66.
 
-Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
+Członkowie Sądu Koleżeńskiego nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
 
-**Rozdział 5. Majątek i fundusze**
+*Rzecznik Dyscyplinarny*
 
 Art. 67.
 
-Majątek Stowarzyszenia stanowią nieruchomości, ruchomości i fundusze.
+Rzecznik Dyscyplinarny wybierany jest przez Walne Zebranie Członków.
 
 Art. 68.
+
+Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania dyscyplinarnego w przypadku uzyskania informacji o naruszeniu przez członka Stowarzyszenia postanowień Statutu lub uchwał władz Stowarzyszenia oraz kierowanie spraw do Sądu Koleżeńskiego.
+
+Art. 69.
+
+Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
+
+Art. 70.
+
+Rzecznik Dyscyplinarny nie może pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
+
+**Rozdział 5. Majątek i fundusze**
+
+Art. 71.
+
+Majątek Stowarzyszenia stanowią nieruchomości, ruchomości i fundusze.
+
+Art. 72.
 
 Majątek Stowarzyszenia powstaje z:
 
@@ -468,29 +486,28 @@ Majątek Stowarzyszenia powstaje z:
 #. wpływów z działalności własnej,
 #. wpływów z ofiarności publicznej,
 #. wpływów ze zbiórek publicznych,
-#. wpływów z loterii, aukcji i sponsoringu.
-
-Art. 69.
-
-Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na to konto przelane.
-
-Art. 70.
-
-Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd.
-
-Art. 71.
-
-Zarząd może tworzyć fundusze celowe, wyodrębniając w tym celu posiadane w swojej dyspozycji środki finansowe.
-
-Art. 72.
-
-Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
+#. wpływów z loterii oraz aukcji.
 
 Art. 73.
 
-W imieniu Stowarzyszenia oświadczenia woli, w tym w sprawach finansowych, podpisują dwie osoby z Zarządu, przy czym przynajmniej jedną z tych osób musi być Prezes, Wiceprezes albo Skarbnik Stowarzyszenia.
+Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na to konto przelane.
 
 Art. 74.
+Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd.
+
+Art. 75.
+
+Zarząd może tworzyć fundusze celowe, wyodrębniając w tym celu posiadane w swojej dyspozycji środki finansowe.
+
+Art. 76.
+
+Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
+
+Art. 77.
+
+W imieniu Stowarzyszenia oświadczenia woli, w tym w sprawach finansowych, podpisują dwie osoby z Zarządu, przy czym przynajmniej jedną z tych osób musi być Prezes, Wiceprezes albo Skarbnik Stowarzyszenia.
+
+Art. 78.
 
 Zabronione jest:
 
