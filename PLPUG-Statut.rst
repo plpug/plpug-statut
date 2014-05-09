@@ -511,7 +511,7 @@ Art. 78.
 Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń woli, w szczególności w sprawach majątkowych:
 
 #. upoważnionych jest dowolnych dwóch członków Zarządu działających łącznie,
-#. upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli wysokość podejmowanego zobowiązania nie przekracza 1024 PLN.
+#. upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli całkowita wysokość podejmowanego zobowiązania nie przekracza 1024 PLN.
 
 Art. 79.
 
