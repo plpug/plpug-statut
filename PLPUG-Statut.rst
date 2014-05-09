@@ -260,8 +260,6 @@ Członkami Zarządu oraz Komisji Rewizyjnej nie mogą być osoby skazane prawomo
 
 Członkami Zarządu nie mogą być osoby, wobec których orzeczono pozbawienie prawa prowadzenia działalności gospodarczej na własny rachunek, pełnienia funkcji członka rady nadzorczej reprezentanta lub pełnomocnika w spółce handlowej, przedsiębiorstwie państwowym, spółdzielni, fundacji lub stowarzyszeniu.
 
-Członkami Komisji Rewizyjnej nie mogą być osoby skazane prawomocnym wyrokiem za przestępstwo z winy umyślnej.
-
 *Walne Zebranie Członków*
 
 Art. 38.
