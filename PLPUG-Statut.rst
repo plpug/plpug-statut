@@ -75,7 +75,7 @@ Sposoby realizacji celów:
 
     * projektem "Forum polskich programistów Pythona",
     * projektem "Planeta polskich programistów Pythona",
-    * kanałami IRC "#python.pl" i "#django.pl" mieszczącymi się w sieci FreeNode, umożliwiającymi wymianę informacji pomiędzy członkami społeczności Pythona,
+    * kanałami IRC "#python.pl" i "#django-pl" mieszczącymi się w sieci FreeNode, umożliwiającymi wymianę informacji pomiędzy członkami społeczności Pythona,
     * serwisem ogłoszeniowym z ofertami pracy dla programistów Pythona.
 
 #. Tworzenie projektów i programów edukacyjnych związanych z Pythonem dla wykorzystania w szkolnictwie,
@@ -492,6 +492,7 @@ Art. 73.
 Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, jak najszybciej na to konto przelane.
 
 Art. 74.
+
 Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd.
 
 Art. 75.
