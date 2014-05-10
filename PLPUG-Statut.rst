@@ -342,7 +342,7 @@ Do kompetencji Zarządu należy:
 #. zwoływanie Walnego Zebrania Członków,
 #. realizacja uchwał Walnego Zebrania Członków,
 #. przygotowanie planów pracy i budżetu,
-#. składanie sprawozdań ze swojej działalności na Walnych Zgromadzeniach Członków,
+#. składanie sprawozdań ze swojej działalności na Walnych Zebraniach Członków,
 #. sprawowanie zarządu nad majątkiem Stowarzyszenia,
 #. powoływanie i rozwiązywanie komisji i zespołów w celu wykonania zadań statutowych, sprawowanie nad nimi nadzoru i uchwalanie regulaminów ich działalności,
 #. podejmowanie uchwał o przyjęciu bądź skreśleniu członków zwyczajnych i członków wspierających Stowarzyszenia z listy członków,
