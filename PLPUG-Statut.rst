@@ -118,7 +118,7 @@ Art. 14.
 Członek zwyczajny Stowarzyszenia ma obowiązek:
 
 #. udziału w działalności Stowarzyszenia i realizacji jego celów,
-#. przestrzegania Statutu, regulaminów i uchwał władz Stowarzyszenia.
+#. przestrzegania Statutu, regulaminów i uchwał władz Stowarzyszenia,
 #. regularnego opłacania składek.
 
 Art. 15.
