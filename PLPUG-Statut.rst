@@ -129,7 +129,7 @@ Członkostwo zwyczajne Stowarzyszenia ustaje na skutek:
 #. dobrowolnego wystąpienia zgłoszonego na piśmie Zarządowi,
 #. ostatecznego prawomocnego orzeczenia Sądu Koleżeńskiego o wykluczeniu,
 #. utraty praw publicznych,
-#. skreślenia uchwałą podjętą bezpośrednio przez Zarząd w przypadku półrocznych zaległości w opłacaniu składek członkowskich lub na skutek niewywiązywania się z przyjętych zobowiązań bądź oczywistego i poważnego naruszenia postanowień Statutu lub uchwał władz Stowarzyszenia,
+#. skreślenia uchwałą podjętą bezpośrednio przez Zarząd w przypadku półrocznych zaległości w opłacaniu składek członkowskich,
 #. pełnej utraty zdolności do czynności prawnych,
 #. likwidacji Stowarzyszenia.
 
@@ -170,17 +170,17 @@ Członkostwo wspierające Stowarzyszenia wygasa na skutek:
 #. dobrowolnego wystąpienia zgłoszonego na piśmie Zarządowi,
 #. prawomocnego orzeczenia Sądu Koleżeńskiego o wykluczeniu,
 #. utraty praw publicznych,
-#. skreślenia uchwałą podjętą przez Zarząd w przypadku braku wywiązywania się z zadeklarowanych świadczeń bądź oczywistego naruszenia postanowień Statutu lub uchwał władz Stowarzyszenia,
+#. skreślenia uchwałą podjętą przez Zarząd w przypadku braku wywiązywania się z zadeklarowanych świadczeń,
 #. ogłoszenia upadłości osoby prawnej lub utraty pełnej zdolności do czynności prawnych,
 #. likwidacji Stowarzyszenia.
 
 Art. 21.
 
-Status członka honorowego nadaje Walne Zebranie Członków na wniosek Zarządu. Otrzymanie statusu członka honorowego nie powoduje utraty członkostwa zwyczajnego albo członkostwa wspierającego jeżeli takowe posiada lub nabędzie.
+Status członka honorowego nadaje Walne Zebranie Członków na wniosek Zarządu. Otrzymanie statusu członka honorowego nie powoduje utraty członkostwa zwyczajnego albo członkostwa wspierającego jeżeli dana osoba fizyczna takowe posiada lub nabędzie.
 
 Art. 22.
 
-Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, posiadająca pełną zdolność do czynności prawnych bądź osoba prawna, której działalność wniosła wybitny wkład w rozwój Pythona bądź jego społeczności lub w szczególny sposób zasłużyła się Stowarzyszeniu.
+Członkiem honorowym Stowarzyszenia może zostać wyłącznie osoba fizyczna, której działalność wniosła wybitny wkład w rozwój Pythona bądź jego społeczności lub w szczególny sposób zasłużyła się Stowarzyszeniu.
 
 Art. 23.
 
@@ -240,11 +240,13 @@ Przekazanie i przejęcie spraw będących w toku przez dotychczasowe i nowe wła
 
 Art. 33.
 
-O ile dalsze postanowienia Statutu nie stanowią inaczej, uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum. W przypadku równej liczby głosów decyduje głos przewodniczącego. Gdyby posiedzenie władz nie mogło się odbyć w pierwszym terminie z powodu braku kworum, w drugim terminie warunek kworum nie jest wymagany.
+O ile postanowienia Statutu lub regulaminów wewnętrznych nie stanowią inaczej, uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum. W przypadku równej liczby głosów decyduje głos przewodniczącego. Gdyby posiedzenie Walnego Zebrania Członków nie mogło się odbyć w pierwszym terminie z powodu braku kworum, w drugim terminie warunek kworum nie jest wymagany.
+
+W przypadku sprzeczności treści postanowień Statutu oraz regulaminów wewnętrznych, pierwszeństwo mają postanowienia Statutu.
 
 Art. 34.
 
-W przypadku ustąpienia lub odwołania bądź zajścia innych zdarzeń powodujących utratę możliwości pełnienia funkcji członka władz Stowarzyszenia przed upływem kadencji, skład osobowy tych władz jest uzupełniany spośród niewybranych kandydatów w kolejności uzyskanych głosów, a gdyby takich osób nie było bądź nie wyraziłyby one zgody na członkostwo we władzach, organ którego dotyczy absencja może uzupełnić swój skład w drodze kooptacji. Liczba członków dokooptowanych nie może przekroczyć połowy liczby członków pochodzących z wyboru. W przypadku konieczności dalszego uzupełniania niezbędne jest przeprowadzenie Walnego Zebrania Członków.
+W przypadku ustąpienia lub odwołania bądź zajścia innych zdarzeń powodujących utratę możliwości pełnienia funkcji członka władz Stowarzyszenia przed upływem kadencji, skład osobowy tych władz jest uzupełniany spośród niewybranych kandydatów w kolejności uzyskanych głosów, a gdyby takich osób nie było, bądź nie wyraziłyby one zgody na członkostwo we władzach, organ którego dotyczy absencja może uzupełnić swój skład w drodze kooptacji. Liczba członków dokooptowanych nie może przekroczyć połowy liczby członków pochodzących z wyboru. W przypadku konieczności dalszego uzupełniania niezbędne jest przeprowadzenie Walnego Zebrania Członków.
 
 Art. 35.
 
@@ -284,7 +286,7 @@ Do kompetencji Walnego Zebrania Członków należy w szczególności:
 #. decydowanie o podjęciu działalności gospodarczej,
 #. nadawanie i pozbawianie statusu członka honorowego Stowarzyszenia,
 #. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia lub jego władze,
-#. podejmowanie uchwał w sprawach niezastrzeżonych do kompetencji innych władz Stowarzyszenia przekraczających zakres zwykłego Zarządu oraz realizacje bieżących celów Stowarzyszenia.
+#. podejmowanie uchwał w sprawach niezastrzeżonych do kompetencji innych władz Stowarzyszenia przekraczających zakres zwykłego zarządu.
 
 Art. 40.
 
@@ -332,7 +334,13 @@ Uchwała dotycząca rozwiązania i likwidacji Stowarzyszenia określa sposób pr
 
 Art. 46.
 
-Zarząd prowadzi sprawy Stowarzyszenia i jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z postanowieniami Statutu i uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie na zewnątrz wobec osób trzecich, organów administracyjnych i sądów. W kwestiach nieuregulowanych w zakresie nie przekraczającym granic zwykłego zarządu Zarząd rozstrzyga samodzielnie.
+Zarząd prowadzi sprawy Stowarzyszenia i jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z postanowieniami Statutu i uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie na zewnątrz wobec osób trzecich, organów administracyjnych i sądów. W kwestiach nieuregulowanych w niniejszym Statucie w zakresie nie przekraczającym granic zwykłego zarządu Zarząd rozstrzyga samodzielnie.
+
+Do składania oświadczeń woli w imieniu Stowarzyszenia, z zastrzeżeniem postanowień art. 76 i art. 77 Statutu, wymagane jest współdziałanie dwóch członków Zarządu działających łącznie, w tym Prezesa lub Wiceprezesa Zarządu.
+
+W sprawach nie wymagających złożenia oświadczenia woli w imieniu Stowarzyszenia wypowiada się Prezes lub Wiceprezes Zarządu, a w zakresie określonym przez Zarząd także pozostali członkowie Zarządu.
+
+Przyjęty w niniejszym Statucie sposób reprezentowania Stowarzyszenia nie ogranicza możliwości ustanawiania przez Zarząd stosownych pełnomocnictw do składnia oświadczeń w imieniu Stowarzyszenia udzielanych z zachowaniem przepisów Statutu dotyczących reprezentacji.
 
 Art. 47.
 
@@ -343,7 +351,9 @@ W skład Zarządu wchodzi od 4 do 7 osób, w tym:
 #. Sekretarz,
 #. Skarbnik.
 
-Funkcje w Zarządzie przyznaje Walne Zebranie Członków. Jednakże w przypadku ustania członkostwa we władzach przed upływem kadencji, do czasu wyboru przez Walne Zebranie Członków, pełnienie funkcji członkowi Zarządu może powierzyć Komisja Rewizyjna.
+Funkcje w Zarządzie przyznaje Walne Zebranie Członków. 
+
+Z zastrzeżeniem art. 35 Statutu w przypadku zastosowania art. 34 Statutu i dokonywania uzupełnienia składu Zarządu spośród niewybranych kandydatów, funkcje w Zarządzie obejmowane są zgodnie z kolejnością głosów uzyskanych przez daną osobę na Walnym Zebraniu Członków. W przypadku, gdy wśród osób kandydujących na Walnym Zebraniu Członków i które wyraziły zgodę na zostanie członkiem zarządu, nie ma osoby, która kandydowałaby na daną funkcję, której dotyczy absencja, Zarząd w drodze uchwały przyznaje funkcje, osoba, której uchwała dotyczy jest wyłączona od głosowania w zakresie tej uchwały. Z zastrzeżeniem art. 35 Statutu w przypadku zastosowania art. 34 Statutu i dokonywania uzupełnienia składu Zarządu w drodze kooptacji Zarząd w drodze uchwały przyznaje funkcje dokooptowanym osobom, osoba, której uchwała dotyczy jest wyłączona od głosowania w zakresie tej uchwały. Do pełnienia danej funkcji zawsze jest wymagana zgoda osoby, która ma pełnić daną funkcję.
 
 Art. 48.
 
@@ -366,7 +376,7 @@ Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż r
 
 Art. 50.
 
-Zarząd podejmuje uchwały zwykłą większością głosów tylko w obecności większości swojego składu. W sytuacji równego rozłożenia głosów decyduje głos Prezesa, a pod jego nieobecność głos Wiceprezesa.
+Zarząd podejmuje uchwały zwykłą większością głosów co najmniej połowy swojego składu. W sytuacji równego rozłożenia głosów decyduje głos Prezesa, a pod jego nieobecność głos Wiceprezesa.
 
 Regulamin Zarządu przyjęty przez Zarząd może określić szczegółowy tryb i formę działania Zarządu Stowarzyszenia.
 
@@ -380,11 +390,11 @@ Art. 52.
 
 W skład Komisji Rewizyjnej wchodzi od 3 do 5 członków, w tym:
 
-#. Przewodniczącego,
-#. Wiceprzewodniczącego,
-#. Sekretarza.
+#. Przewodniczący,
+#. Wiceprzewodniczący,
+#. Sekretarz.
 
-Funkcje w Komisji Rewizyjnej przyznaje Walne Zebranie Członków. Jednakże w przypadku ustania członkostwa we władzach przed upływem kadencji, do czasu wyboru przez Walne Zebranie Członków, pełnienie funkcji w Komisji Rewizyjnej członkowi Komisji Rewizyjnej może powierzyć jej Przewodniczący.
+Funkcje w Komisji Rewizyjnej przyznaje Walne Zebranie Członków. Jednakże w przypadku ustania członkostwa w Komisji Rewizyjnej przed upływem jej kadencji bądź zawieszenia w prawach Członka Stowarzyszenia, do czasu uzupełnienia składu Komisji Rewizyjnej w sposób przewidziany niniejszym Statutem, Przewodniczący Komisji Rewizyjnej może delegować odpowiednią osobę do czasowego pełnienia funkcji w Komisji Rewizyjnej. Mandat delegowanego członka Komisji Rewizyjnej wygasa z chwilą objęcia stanowiska przez nową osobę uprawnioną do zasiadania w Komisji Rewizyjnej zgodnie z postanowieniami niniejszego Statutu.
 
 Art. 53.
 
@@ -408,6 +418,8 @@ Art. 56.
 
 Komisja Rewizyjna ma prawo żądania od członków i przedstawicieli władz Stowarzyszenia wszystkich szczebli składania pisemnych bądź ustnych wyjaśnień dotyczących kontrolowanych spraw.
 
+Komisja Rewizyjna podejmuje uchwały zwykłą większością głosów co najmniej połowy swojego składu. W sytuacji równego rozłożenia głosów decyduje głos Przewodniczącego, a pod jego nieobecność głos Wiceprzewodniczącego.
+
 Art. 57.
 
 Członkowie Komisji Rewizyjnej nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej. Nie dotyczy to uczestnictwa w Walnym Zebraniu Członków Stowarzyszenia.
@@ -422,9 +434,9 @@ Art. 59.
 
 W skład Sądu Koleżeńskiego wchodzi od 3 do 7 członków wybieranych przez Walne Zebranie Członków, w tym:
 
-#. Przewodniczącego,
-#. Wiceprzewodniczącego,
-#. Sekretarza.
+#. Przewodniczący,
+#. Wiceprzewodniczący,
+#. Sekretarz.
 
 Art. 60.
 
@@ -433,12 +445,13 @@ Do zakresu działań Sądu Koleżeńskiego należy:
 #. rozpatrywanie i rozstrzyganie spraw członków władz w zakresie niedopełnienia przez nich obowiązków lub przekroczenia uprawnień wynikających ze Statutu i uchwał władz Stowarzyszenia,
 #. rozpatrywanie i rozstrzyganie sporów pomiędzy członkami Stowarzyszenia oraz między członkami a władzami Stowarzyszenia, powstałych na tle ich praw i obowiązków wynikających z ich przynależności i działalności w Stowarzyszeniu,
 #. rozpatrywanie spraw związanych z nieprzestrzeganiem Statutu i uchwał władz Stowarzyszenia lub działaniem na szkodę Stowarzyszenia,
-#. rozpatrywanie odwołań od decyzji Zarządu dotyczących skreślenia z listy członków zwyczajnych i członków wspierających Stowarzyszenia,
 #. składanie sprawozdań ze swojej działalności Walnemu Zebraniu Członków.
 
 Art. 61.
 
-Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub podmiotów zainteresowanych. Tryb i formy działania Sądu Koleżeńskiego określa regulamin przez nią uchwalony.
+Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub podmiotów zainteresowanych.
+
+Szczegółowy tryb i formy działania Sądu Koleżeńskiego oraz Rzecznika Dyscyplinarnego określa  „Regulamin Działania Sądu Koleżeńskiego i Rzecznika Dyscyplinarego”  uchwalony przez Sąd Koleżeński, z tym że orzeczenia oraz uchwały Sądu Koleżeńskiego zapadają bezwzględną większością głosów składu orzekającego.
 
 Art. 62.
 
@@ -477,7 +490,7 @@ Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania 
 
 Art. 69.
 
-Tryb i formy działania Rzecznika Dyscyplinarnego określa regulamin.
+Tryb i formy działania Rzecznika Dyscyplinarnego określa "Regulamin Działania Sądu Koleżeńskiego i Rzecznika Dyscyplinarnego".
 
 Art. 70.
 
@@ -517,21 +530,17 @@ Wysokość składek członkowskich i termin ich wpłacania ustala Walne Zebranie
 
 Art. 75.
 
-Zarząd może tworzyć fundusze celowe, wyodrębniając w tym celu posiadane w swojej dyspozycji środki finansowe.
+Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres       co najmniej 3 miesięcy.
 
 Art. 76.
 
-Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
+W imieniu Stowarzyszenia oświadczenia woli, w sprawach majątkowych, których wartość przekracza kwotę 1024 PLN, składają dwie osoby z Zarządu, przy czym przynajmniej jedną z tych osób musi być Prezes, Wiceprezes albo Skarbnik Stowarzyszenia.
 
 Art. 77.
 
-W imieniu Stowarzyszenia oświadczenia woli, w sprawach majątkowych, których wartość przekracza kwotę 1024 PLN, składają dwie osoby z Zarządu, przy czym przynajmniej jedną z tych osób musi być Prezes, Wiceprezes albo Skarbnik Stowarzyszenia.
-
-Art. 78.
-
 W imieniu Stowarzyszenia oświadczenia woli w sprawach majątkowych, których wartość nie przekracza kwoty 1024 PLN upoważniony jest każdy członek Zarządu działający samodzielnie.
 
-Art. 79.
+Art. 78.
 
 Zabronione jest:
 
@@ -539,3 +548,4 @@ Zabronione jest:
 #. przekazywanie majątku Stowarzyszenia na rzecz jego członków, członków organów lub pracowników oraz ich osób bliskich, na zasadach innych niż w stosunku do osób trzecich, w szczególności, jeżeli przekazanie to następuje bezpłatnie lub na preferencyjnych warunkach,
 #. wykorzystanie majątku Stowarzyszenia na rzecz członków, członków organów lub pracowników oraz ich osób bliskich na zasadach innych niż w stosunku do osób trzecich, chyba że to wykorzystanie bezpośrednio wynika z celu statutowego.
 #. dokonywanie zakupu towarów lub usług od podmiotów, w których uczestniczą członkowie Stowarzyszenia, członkowie jego organów lub pracownicy oraz ich osób bliskich na zasadach innych niż w stosunku do osób trzecich lub po cenach wyższych niż rynkowe.
+
