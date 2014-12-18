@@ -451,7 +451,7 @@ Art. 61.
 
 Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub podmiotów zainteresowanych.
 
-Szczegółowy tryb i formy działania Sądu Koleżeńskiego oraz Rzecznika Dyscyplinarnego określa  „Regulamin Działania Sądu Koleżeńskiego i Rzecznika Dyscyplinarego”  uchwalony przez Sąd Koleżeński, z tym że orzeczenia oraz uchwały Sądu Koleżeńskiego zapadają bezwzględną większością głosów składu orzekającego.
+Szczegółowy tryb i formy działania Sądu Koleżeńskiego oraz Rzecznika Dyscyplinarnego określa  „Regulamin Działania Sądu Koleżeńskiego i Rzecznika Dyscyplinarnego”  uchwalony przez Sąd Koleżeński, z tym że orzeczenia oraz uchwały Sądu Koleżeńskiego zapadają bezwzględną większością głosów składu orzekającego.
 
 Art. 62.
 
