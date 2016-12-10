@@ -332,7 +332,7 @@ Uchwała dotycząca rozwiązania i likwidacji Stowarzyszenia określa sposób pr
 
 *Zarząd*
 
-W przypadku braku kworum, w terminie miesiąca zwołuje się kolejne Walne Zebranie Członków, które podejmuje uchwałę w przedmiocie rozwiązania i likwidacji Stowarzyszenia większością 3/4 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania.
+Art. 46.
 
 Zarząd prowadzi sprawy Stowarzyszenia i jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z postanowieniami Statutu i uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie na zewnątrz wobec osób trzecich, organów administracyjnych i sądów. W kwestiach nieuregulowanych w niniejszym Statucie w zakresie nie przekraczającym granic zwykłego zarządu Zarząd rozstrzyga samodzielnie.
 
@@ -351,7 +351,7 @@ W skład Zarządu wchodzi od 4 do 7 osób, w tym:
 #. Sekretarz,
 #. Skarbnik.
 
-Funkcje w Zarządzie przyznaje Walne Zebranie Członków. 
+Funkcje w Zarządzie przyznaje Walne Zebranie Członków.
 
 Z zastrzeżeniem art. 35 Statutu w przypadku zastosowania art. 34 Statutu i dokonywania uzupełnienia składu Zarządu spośród niewybranych kandydatów, funkcje w Zarządzie obejmowane są zgodnie z kolejnością głosów uzyskanych przez daną osobę na Walnym Zebraniu Członków. W przypadku, gdy wśród osób kandydujących na Walnym Zebraniu Członków i które wyraziły zgodę na zostanie członkiem zarządu, nie ma osoby, która kandydowałaby na daną funkcję, której dotyczy absencja, Zarząd w drodze uchwały przyznaje funkcje, osoba, której uchwała dotyczy jest wyłączona od głosowania w zakresie tej uchwały. Z zastrzeżeniem art. 35 Statutu w przypadku zastosowania art. 34 Statutu i dokonywania uzupełnienia składu Zarządu w drodze kooptacji Zarząd w drodze uchwały przyznaje funkcje dokooptowanym osobom, osoba, której uchwała dotyczy jest wyłączona od głosowania w zakresie tej uchwały. Do pełnienia danej funkcji zawsze jest wymagana zgoda osoby, która ma pełnić daną funkcję.
 
@@ -530,7 +530,7 @@ Wysokość składek członkowskich i termin ich wpłacania ustala Walne Zebranie
 
 Art. 75.
 
-Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres       co najmniej 3 miesięcy.
+Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu środków na koncie Stowarzyszenia wystarczającego na pokrycie stałych zobowiązań Stowarzyszenia przez okres co najmniej 3 miesięcy.
 
 Art. 76.
 
